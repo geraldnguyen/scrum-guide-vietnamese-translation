@@ -16,25 +16,24 @@ Chúng tôi theo dõi việc sử dụng Scrum ngày càng tăng trong một th�
 
 Khi Scrum đang được dùng, các mẫu, quy trình và những hiểu biết bên trong phù hợp với khuôn khổ Scrum, như mô tả trong tài liệu này, có thể được tìm thấy, áp dụng và phát minh. Mô tả của chúng nằm ngoài mục đích của Hướng dẫn Scrum vì chúng nhạy cảm với ngữ cảnh và khác nhau nhiều giữa các cách sử dụng Scrum. Trong khuôn khổ Scrum, những chiến thuật sử dụng như vậy có nhiều biến hóa và được miêu tả ở những nơi khác.
 
-Scrum Definition
+Định nghĩa Scrum
 ----------------
 
-Scrum is a lightweight framework that helps people, teams and organizations generate value through adaptive solutions for complex problems.
+Scrum là một khuôn khổ nhẹ giúp mọi người, nhóm và tổ chức tạo ra giá trị thông qua các giải pháp thích ứng cho các vấn đề phức tạp.
 
-In a nutshell, Scrum requires a Scrum Master to foster an environment where:
+Tóm gọn, Scrum cần một Scrum Master *(ND: Trưởng Scrum)* để thúc đẩy một môi trường mà:
 
-1.  A Product Owner orders the work for a complex problem into a Product Backlog.
-    
-2.  The Scrum Team turns a selection of the work into an Increment of value during a Sprint.
-    
-3.  The Scrum Team and its stakeholders inspect the results and adjust for the next Sprint.
-    
-4.  _Repeat_
-    
+1. Một Product Owner *(ND: Chủ Sản phẩm)* đặt công việc cho một vấn đề phức tạp vào Product Backlog (Tồn đơn của Sản phẩm).
 
-Scrum is simple. Try it as is and determine if its philosophy, theory, and structure help to achieve goals and create value. The Scrum framework is purposefully incomplete, only defining the parts required to implement Scrum theory. Scrum is built upon by the collective intelligence of the people using it. Rather than provide people with detailed instructions, the rules of Scrum guide their relationships and interactions.
+2. Nhóm Scrum biến một lựa chọn công việc thành một Gia tăng giá trị trong một Sprint *(ND: Sự chạy nước rút)*.
+    
+3. Nhóm Scrum và các bên quan tâm và lợi ích *(ND: stakeholders)* kiểm tra kết quả và điều chỉnh cho Sprint tiếp theo.
+    
+4. _Lặp lại_
 
-Various processes, techniques and methods can be employed within the framework. Scrum wraps around existing practices or renders them unnecessary. Scrum makes visible the relative efficacy of current management, environment, and work techniques, so that improvements can be made.
+Scrum giản đơn. Hãy thử y vậy và xác định xem triết lý, lý thuyết và cấu trúc của nó có giúp đạt được mục tiêu và tạo ra giá trị hay không. Khuôn khổ Scrum được chủ đích không hoàn chỉnh, chỉ xác định các phần cần thiết để triển khai lý thuyết Scrum. Scrum được xây dựng dựa trên trí tuệ tập thể của những người sử dụng nó. Thay vì cung cấp cho mọi người những hướng dẫn chi tiết, các quy tắc của Scrum hướng dẫn các mối quan hệ và tương tác của họ.
+
+Các quy trình, kỹ thuật và phương pháp khác nhau có thể được sử dụng trong khuôn khổ. Scrum bao quanh các thực hành hiện có, hoặc làm cho chúng không cần thiết. Scrum làm hiện hình hiệu quả tương đối của các kỹ thuật quản lý, môi trường và công việc hiện tại, để các cải tiến có thể được tạo ra.
 
 Scrum Theory
 ------------
