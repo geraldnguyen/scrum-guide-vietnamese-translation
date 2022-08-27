@@ -42,8 +42,6 @@ Scrum được xây dựng trên chủ nghĩa kinh nghiệm và tư duy tinh g�
 
 Scrum sử dụng cách tiếp cận lặp lại, gia tăng *(ND: iterative, incremental)* để tối ưu hóa khả năng dự đoán và để kiểm soát rủi ro. Scrum tuyển dụng các nhóm người khi tập hợp lại có đủ tất cả các kỹ năng và chuyên môn để thực hiện công việc và chia sẻ hoặc có được những kỹ năng đó khi cần.
 
-Scrum combines four formal events for inspection and adaptation within a containing event, the Sprint. These events work because they implement the empirical Scrum pillars of transparency, inspection, and adaptation.
-
 Scrum kết hợp bốn sự kiện chính thức cho việc kiểm tra và tùy chỉnh trong một sự kiện bao trùm, Sprint. Những sự kiện này đem đến kết quả vì chúng hiện thực hóa các trụ cột minh bạch, kiểm tra và thích ứng của chủ nghĩa kinh nghiệm trong Scrum
 
 
