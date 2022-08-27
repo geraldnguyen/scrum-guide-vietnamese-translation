@@ -35,14 +35,17 @@ Scrum giản đơn. Hãy thử y vậy và xác định xem triết lý, lý thu
 
 Các quy trình, kỹ thuật và phương pháp khác nhau có thể được sử dụng trong khuôn khổ. Scrum bao quanh các thực hành hiện có, hoặc làm cho chúng không cần thiết. Scrum làm hiện hình hiệu quả tương đối của các kỹ thuật quản lý, môi trường và công việc hiện tại, để các cải tiến có thể được tạo ra.
 
-Scrum Theory
+Lý Thuyết Scrum
 ------------
 
-Scrum is founded on empiricism and lean thinking. Empiricism asserts that knowledge comes from experience and making decisions based on what is observed. Lean thinking reduces waste and focuses on the essentials.
+Scrum được xây dựng trên chủ nghĩa kinh nghiệm và tư duy tinh gọn. Chủ nghĩa kinh nghiệm khẳng định rằng kiến ​​thức đến từ kinh nghiệm và đưa ra quyết định dựa trên những gì quan sát được. Tư duy tinh gọn giảm lãng phí và tập trung vào những điều cần thiết.
 
-Scrum employs an iterative, incremental approach to optimize predictability and to control risk. Scrum engages groups of people who collectively have all the skills and expertise to do the work and share or acquire such skills as needed.
+Scrum sử dụng cách tiếp cận lặp lại, gia tăng *(ND: iterative, incremental)* để tối ưu hóa khả năng dự đoán và để kiểm soát rủi ro. Scrum tuyển dụng các nhóm người khi tập hợp lại có đủ tất cả các kỹ năng và chuyên môn để thực hiện công việc và chia sẻ hoặc có được những kỹ năng đó khi cần.
 
 Scrum combines four formal events for inspection and adaptation within a containing event, the Sprint. These events work because they implement the empirical Scrum pillars of transparency, inspection, and adaptation.
+
+Scrum kết hợp bốn sự kiện chính thức cho việc kiểm tra và tùy chỉnh trong một sự kiện bao trùm, Sprint. Những sự kiện này đem đến kết quả vì chúng hiện thực hóa các trụ cột minh bạch, kiểm tra và thích ứng của chủ nghĩa kinh nghiệm trong Scrum
+
 
 ### Transparency
 
