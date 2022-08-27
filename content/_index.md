@@ -62,16 +62,19 @@ Nếu bất kỳ khía cạnh của quá trình lệch ra ngoài giới hạn ch
 
 Việc thích ứng trở nên khó khăn hơn khi những người liên quan không được trao quyền hoặc không tự quản lý. Nhóm Scrum được yêu cầu ứng đổi ngay khi học được bất cứ điều gì mới thông qua việc kiểm tra.
 
-Scrum Values
+
+Các Giá Trị trong Scrum
 ------------
 
-Successful use of Scrum depends on people becoming more proficient in living five values:
+Việc sử dụng thành công Scrum phụ thuộc vào việc mọi người trở nên thành thạo hơn trong việc sống theo 5 giá trị:
 
-**_Commitment, Focus, Openness, Respect, and Courage_**
+**_Cam kết, Tập trung, Cởi mở, Tôn trọng và Dũng cảm_**
 
-The Scrum Team commits to achieving its goals and to supporting each other. Their primary focus is on the work of the Sprint to make the best possible progress toward these goals. The Scrum Team and its stakeholders are open about the work and the challenges. Scrum Team members respect each other to be capable, independent people, and are respected as such by the people with whom they work. The Scrum Team members have the courage to do the right thing, to work on tough problems.
+Nhóm Scrum cam kết đạt được các mục tiêu của mình và hỗ trợ lẫn nhau. Tập trung chính của họ là công việc của Sprint để đạt được tiến độ tốt nhất có thể đối với những mục tiêu này. Nhóm Scrum và các bên quan tâm và lợi ích *(ND: stakeholders)* cởi mở về công việc và những thách thức. Các thành viên Nhóm Scrum tôn trọng nhau là những người có năng lực, độc lập và được những người cùng làm việc tôn trọng như vậy. Các thành viên Nhóm Scrum có can đảm để làm điều đúng đắn, để giải quyết những vấn đề khó khăn.
 
 These values give direction to the Scrum Team with regard to their work, actions, and behavior. The decisions that are made, the steps taken, and the way Scrum is used should reinforce these values, not diminish or undermine them. The Scrum Team members learn and explore the values as they work with the Scrum events and artifacts. When these values are embodied by the Scrum Team and the people they work with, the empirical Scrum pillars of transparency, inspection, and adaptation come to life building trust.
+
+Những giá trị này chỉ hướng cho Nhóm Scrum về công việc, hành động và cách cư xử của họ. Các quyết định được đưa ra, các bước đã thực hiện và cách sử dụng Scrum phải củng cố những giá trị này, không làm giảm hoặc làm suy yếu chúng. Các thành viên Nhóm Scrum tìm hiểu và khám phá các giá trị khi họ làm việc với các sự kiện và tạo vật của Scrum. Khi những giá trị này được hiện thân trong Nhóm Scrum và những người mà họ làm việc cùng, các trụ cột minh bạch, kiểm tra và thích ứng của chủ nghĩa kinh nghiệm trong Scrum sẽ hiện thực hóa và xây dựng niềm tin.
 
 Scrum Team
 ----------
