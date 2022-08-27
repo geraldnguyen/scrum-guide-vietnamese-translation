@@ -23,7 +23,7 @@ Scrum là một khuôn khổ nhẹ giúp mọi người, nhóm và tổ chức t
 
 Tóm gọn, Scrum cần một Scrum Master *(ND: Trưởng Scrum)* để thúc đẩy một môi trường mà:
 
-1. Một Product Owner *(ND: Chủ Sản phẩm)* đặt công việc cho một vấn đề phức tạp vào Product Backlog (Tồn đơn của Sản phẩm).
+1. Một Product Owner *(ND: Chủ Sản phẩm)* đặt hàng công việc cho một vấn đề phức tạp vào Product Backlog (Tồn đơn của Sản phẩm).
 
 2. Nhóm Scrum biến một lựa chọn công việc thành một Gia tăng giá trị trong một Sprint *(ND: Sự chạy nước rút)*.
     
