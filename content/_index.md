@@ -44,24 +44,23 @@ Scrum sử dụng cách tiếp cận lặp lại, gia tăng *(ND: iterative, inc
 
 Scrum kết hợp bốn sự kiện chính thức cho việc kiểm tra và tùy chỉnh trong một sự kiện bao trùm, Sprint. Những sự kiện này đem đến kết quả vì chúng hiện thực hóa các trụ cột minh bạch, kiểm tra và thích ứng của chủ nghĩa kinh nghiệm trong Scrum
 
+### Minh Bạch
 
-### Transparency
+Quá trình và công việc sắp làm phải trở nên rõ ràng với những người thực hiện công việc cũng như những người tiếp nhận công việc. Với Scrum, các quyết định quan trọng được dựa trên trạng thái nhận thức của ba tạo vật chính thức. Các tạo vật có tính minh bạch thấp có thể dẫn đến các quyết định làm giảm giá trị và tăng rủi ro.
 
-The emergent process and work must be visible to those performing the work as well as those receiving the work. With Scrum, important decisions are based on the perceived state of its three formal artifacts. Artifacts that have low transparency can lead to decisions that diminish value and increase risk.
+Tính minh bạch cho phép kiểm tra. Kiểm tra mà không minh bạch gây hiểu lầm và lãng phí.
 
-Transparency enables inspection. Inspection without transparency is misleading and wasteful.
+### Kiểm Tra
 
-### Inspection
+Các tạo vật của Scrum và tiến trình tới các mục tiêu đã thống nhất phải được kiểm tra thường xuyên và siêng năng để phát hiện các thay đổi không mong muốn hoặc các trục trặc có thể xảy ra. Để giúp cho việc kiểm tra, Scrum tạo ra nhịp điệu dưới dạng năm sự kiện.
 
-The Scrum artifacts and the progress toward agreed goals must be inspected frequently and diligently to detect potentially undesirable variances or problems. To help with inspection, Scrum provides cadence in the form of its five events.
+Việc kiểm tra cho phép thích ứng. Kiểm tra mà không ứng đổi được coi là vô nghĩa. Các sự kiện Scrum được thiết kế để kích thích sự thay đổi.
 
-Inspection enables adaptation. Inspection without adaptation is considered pointless. Scrum events are designed to provoke change.
+### Thích Ứng
 
-### Adaptation
+Nếu bất kỳ khía cạnh của quá trình lệch ra ngoài giới hạn cho phép hoặc nếu sản phẩm thu được không thể chấp nhận được, thì quá trình đang được áp dụng hoặc nguyên liệu đang được sản xuất phải được điều chỉnh. Việc điều chỉnh phải được thực hiện càng sớm càng tốt để giảm thiểu sai lệch hơn nữa.
 
-If any aspects of a process deviate outside acceptable limits or if the resulting product is unacceptable, the process being applied or the materials being produced must be adjusted. The adjustment must be made as soon as possible to minimize further deviation.
-
-Adaptation becomes more difficult when the people involved are not empowered or self-managing. A Scrum Team is expected to adapt the moment it learns anything new through inspection.
+Việc thích ứng trở nên khó khăn hơn khi những người liên quan không được trao quyền hoặc không tự quản lý. Nhóm Scrum được yêu cầu ứng đổi ngay khi học được bất cứ điều gì mới thông qua việc kiểm tra.
 
 Scrum Values
 ------------
