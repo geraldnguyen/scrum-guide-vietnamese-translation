@@ -72,8 +72,6 @@ Việc sử dụng thành công Scrum phụ thuộc vào việc mọi người t
 
 Nhóm Scrum cam kết đạt được các mục tiêu của mình và hỗ trợ lẫn nhau. Tập trung chính của họ là công việc của Sprint để đạt được tiến độ tốt nhất có thể đối với những mục tiêu này. Nhóm Scrum và các bên quan tâm và lợi ích *(NV: stakeholders)* cởi mở về công việc và những thách thức. Các thành viên Nhóm Scrum tôn trọng nhau là những người có năng lực, độc lập và được những người cùng làm việc tôn trọng như vậy. Các thành viên Nhóm Scrum có can đảm để làm điều đúng đắn, để giải quyết những vấn đề khó khăn.
 
-These values give direction to the Scrum Team with regard to their work, actions, and behavior. The decisions that are made, the steps taken, and the way Scrum is used should reinforce these values, not diminish or undermine them. The Scrum Team members learn and explore the values as they work with the Scrum events and artifacts. When these values are embodied by the Scrum Team and the people they work with, the empirical Scrum pillars of transparency, inspection, and adaptation come to life building trust.
-
 Những giá trị này chỉ hướng cho Nhóm Scrum về công việc, hành động và cách cư xử của họ. Các quyết định được đưa ra, các bước đã thực hiện và cách sử dụng Scrum phải củng cố những giá trị này, không làm giảm hoặc làm suy yếu chúng. Các thành viên Nhóm Scrum tìm hiểu và khám phá các giá trị khi họ làm việc với các sự kiện và tạo vật của Scrum. Khi những giá trị này được hiện thân trong Nhóm Scrum và những người mà họ làm việc cùng, các trụ cột minh bạch, kiểm tra và thích ứng của chủ nghĩa kinh nghiệm trong Scrum sẽ hiện thực hóa và xây dựng niềm tin.
 
 Nhóm Scrum
@@ -89,21 +87,16 @@ Nhóm Scrum chịu trách nhiệm về tất cả các hoạt động liên quan
 
 Toàn bộ Nhóm Scrum có trách nhiệm tạo ra Gia tăng *(NV: Increment)* giá trị và hữu ích mỗi Sprint. Scrum định rõ 3 hình thái trách nhiệm *(NV: accountability)* cụ thể trong Nhóm Scrum: Nhà phát triển, Chủ sản phẩm và Trưởng Scrum *(NV: the Developers, the Product Owner, and the Scrum Master).
 
+### Nhà Phát Triển
 
-### Developers
+Các nhà phát triển là những người trong Nhóm Scrum cống hiến vào việc tạo ra một phương diện nào đó của Gia tăng sử dụng được mỗi Sprint.
 
-Developers are the people in the Scrum Team that are committed to creating any aspect of a usable Increment each Sprint.
+Các kỹ năng cụ thể mà Nhà phát triển cần có thường rộng và sẽ thay đổi theo lĩnh vực công việc. Tuy nhiên, các Nhà phát triển luôn chịu trách nhiệm về:
+- Lập kế hoạch cho Sprint, gọi là Tồn đơn Sprint *(NV: Sprint Backlog)*;
+- Gây dựng chất lượng bằng việc tuân thủ Định nghĩa Hoàn thành *(NV: Definition of Done)*;
+- Điều chỉnh kế hoạch của họ mỗi ngày hướng tới Mục tiêu Sprint; và,
+- Giao và giữ trách nhiệm với nhau *(NV: Holding each other accountable)* như những người chuyên nghiệp.
 
-The specific skills needed by the Developers are often broad and will vary with the domain of work. However, the Developers are always accountable for:
-
-*   Creating a plan for the Sprint, the Sprint Backlog;
-    
-*   Instilling quality by adhering to a Definition of Done;
-    
-*   Adapting their plan each day toward the Sprint Goal; and,
-    
-*   Holding each other accountable as professionals.
-    
 
 ### Product Owner
 
