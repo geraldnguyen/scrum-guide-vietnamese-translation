@@ -8,11 +8,11 @@ draft: false
 Mục đích của Hướng dẫn Scrum
 --------------------------
 
-Chúng tôi *(ND: tác giả Ken Schwaber và Jeff Sutherland)* phát triển Scrum vào đầu những năm 1990. Chúng tôi viết phiên bản đầu tiên của Hướng dẫn Scrum vào năm 2010 để giúp mọi người trên toàn thế giới hiểu về Scrum. Từ đó, chúng tôi phát triển Hướng dẫn thông qua các bản cập nhật nhỏ, chức năng. Cùng nhau, chúng tôi đứng đằng sau nó.
+Chúng tôi *(Người dịch: tác giả Ken Schwaber và Jeff Sutherland)* phát triển Scrum vào đầu những năm 1990. Chúng tôi viết phiên bản đầu tiên của Hướng dẫn Scrum vào năm 2010 để giúp mọi người trên toàn thế giới hiểu về Scrum. Từ đó, chúng tôi phát triển Hướng dẫn thông qua các bản cập nhật nhỏ, chức năng. Cùng nhau, chúng tôi đứng đằng sau nó.
 
 Hướng dẫn Scrum chứa định nghĩa về Scrum. Mỗi yếu tố của khuôn khổ phục vụ một mục đích cụ thể cần thiết cho giá trị tổng thể và kết quả đạt được với Scrum. Việc thay đổi thiết kế hoặc ý tưởng cốt lõi của Scrum, việc bỏ qua các yếu tố, hoặc việc không tuân theo các quy tắc của Scrum, che đậy bất ổn và hạn chế lợi ích của Scrum, thậm chí có thể khiến nó trở nên vô dụng.
 
-Chúng tôi theo dõi việc sử dụng Scrum ngày càng tăng trong một thế giới phức tạp ngày càng phát triển. Chúng tôi vinh dự khi thấy Scrum đang được áp dụng trong nhiều lĩnh vực có công việc với bản chất phức tạp, vượt ra việc phát triển sản phẩm phần mềm nơi Scrum khởi nguồn. Khi việc sử dụng Scrum lan rộng, các nhà phát triển, nhà nghiên cứu, nhà phân tích, nhà khoa học và các chuyên gia khác thực hiện cùng công việc *(ND: do the work - liên hệ với câu sau, có lẽ các tác giả dẫn lời cho việc dùng 1 cụm từ "nhà phát triển" chung cho các lĩnh vực khác nhau)*. Chúng tôi sử dụng từ “các nhà phát triển” trong Scrum không phải để loại trừ mà để đơn giản hóa. Nếu bạn nhận được giá trị từ Scrum, hãy coi bạn là một trong số họ.
+Chúng tôi theo dõi việc sử dụng Scrum ngày càng tăng trong một thế giới phức tạp ngày càng phát triển. Chúng tôi vinh dự khi thấy Scrum đang được áp dụng trong nhiều lĩnh vực có công việc với bản chất phức tạp, vượt ra việc phát triển sản phẩm phần mềm nơi Scrum khởi nguồn. Khi việc sử dụng Scrum lan rộng, các nhà phát triển, nhà nghiên cứu, nhà phân tích, nhà khoa học và các chuyên gia khác thực hiện cùng công việc *(NV: do the work - liên hệ với câu sau, có lẽ các tác giả dẫn lời cho việc dùng chung cụm từ "nhà phát triển" cho các lĩnh vực khác nhau)*. Chúng tôi sử dụng từ “các nhà phát triển” trong Scrum không phải để loại trừ mà để đơn giản hóa. Nếu bạn nhận được giá trị từ Scrum, hãy coi bạn là một trong số họ.
 
 Khi Scrum đang được dùng, các mẫu, quy trình và những hiểu biết bên trong phù hợp với khuôn khổ Scrum, như mô tả trong tài liệu này, có thể được tìm thấy, áp dụng và phát minh. Mô tả của chúng nằm ngoài mục đích của Hướng dẫn Scrum vì chúng nhạy cảm với ngữ cảnh và khác nhau nhiều giữa các cách sử dụng Scrum. Trong khuôn khổ Scrum, những chiến thuật sử dụng như vậy có nhiều biến hóa và được miêu tả ở những nơi khác.
 
@@ -21,13 +21,13 @@ Khi Scrum đang được dùng, các mẫu, quy trình và những hiểu biết
 
 Scrum là một khuôn khổ nhẹ giúp mọi người, nhóm và tổ chức tạo ra giá trị thông qua các giải pháp thích ứng cho các vấn đề phức tạp.
 
-Tóm gọn, Scrum cần một Scrum Master *(ND: Trưởng Scrum)* để thúc đẩy một môi trường mà:
+Tóm gọn, Scrum cần một Trưởng Scrum *(NV: Scrum Master)* để thúc đẩy một môi trường mà:
 
-1. Một Product Owner *(ND: Chủ Sản phẩm)* đặt hàng công việc cho một vấn đề phức tạp vào Product Backlog (Tồn đơn của Sản phẩm).
+1. Một Chủ Sản phẩm *(NV: Product Owner)* đặt hàng công việc cho một vấn đề phức tạp vào Tồn đơn của Sản phẩm *(NV: Product Backlog)*.
 
-2. Nhóm Scrum biến một lựa chọn công việc thành một Gia tăng giá trị trong một Sprint *(ND: Sự chạy nước rút)*.
+2. Nhóm Scrum biến một lựa chọn công việc thành một Gia tăng giá trị trong một Sprint *(Người dịch: Sự chạy nước rút)*.
     
-3. Nhóm Scrum và các bên quan tâm và lợi ích *(ND: stakeholders)* kiểm tra kết quả và điều chỉnh cho Sprint tiếp theo.
+3. Nhóm Scrum và các bên quan tâm và lợi ích *(NV: stakeholders)* kiểm tra kết quả và điều chỉnh cho Sprint tiếp theo.
     
 4. _Lặp lại_
 
@@ -40,7 +40,7 @@ Lý Thuyết Scrum
 
 Scrum được xây dựng trên chủ nghĩa kinh nghiệm và tư duy tinh gọn. Chủ nghĩa kinh nghiệm khẳng định rằng kiến ​​thức đến từ kinh nghiệm và đưa ra quyết định dựa trên những gì quan sát được. Tư duy tinh gọn giảm lãng phí và tập trung vào những điều cần thiết.
 
-Scrum sử dụng cách tiếp cận lặp lại, gia tăng *(ND: iterative, incremental)* để tối ưu hóa khả năng dự đoán và để kiểm soát rủi ro. Scrum tuyển dụng các nhóm người khi tập hợp lại có đủ tất cả các kỹ năng và chuyên môn để thực hiện công việc và chia sẻ hoặc có được những kỹ năng đó khi cần.
+Scrum sử dụng cách tiếp cận lặp lại, gia tăng *(NV: iterative, incremental)* để tối ưu hóa khả năng dự đoán và để kiểm soát rủi ro. Scrum tuyển dụng các nhóm người khi tập hợp lại có đủ tất cả các kỹ năng và chuyên môn để thực hiện công việc và chia sẻ hoặc có được những kỹ năng đó khi cần.
 
 Scrum kết hợp bốn sự kiện chính thức cho việc kiểm tra và tùy chỉnh trong một sự kiện bao trùm, Sprint. Những sự kiện này đem đến kết quả vì chúng hiện thực hóa các trụ cột minh bạch, kiểm tra và thích ứng của chủ nghĩa kinh nghiệm trong Scrum
 
@@ -70,24 +70,25 @@ Việc sử dụng thành công Scrum phụ thuộc vào việc mọi người t
 
 **_Cam kết, Tập trung, Cởi mở, Tôn trọng và Dũng cảm_**
 
-Nhóm Scrum cam kết đạt được các mục tiêu của mình và hỗ trợ lẫn nhau. Tập trung chính của họ là công việc của Sprint để đạt được tiến độ tốt nhất có thể đối với những mục tiêu này. Nhóm Scrum và các bên quan tâm và lợi ích *(ND: stakeholders)* cởi mở về công việc và những thách thức. Các thành viên Nhóm Scrum tôn trọng nhau là những người có năng lực, độc lập và được những người cùng làm việc tôn trọng như vậy. Các thành viên Nhóm Scrum có can đảm để làm điều đúng đắn, để giải quyết những vấn đề khó khăn.
+Nhóm Scrum cam kết đạt được các mục tiêu của mình và hỗ trợ lẫn nhau. Tập trung chính của họ là công việc của Sprint để đạt được tiến độ tốt nhất có thể đối với những mục tiêu này. Nhóm Scrum và các bên quan tâm và lợi ích *(NV: stakeholders)* cởi mở về công việc và những thách thức. Các thành viên Nhóm Scrum tôn trọng nhau là những người có năng lực, độc lập và được những người cùng làm việc tôn trọng như vậy. Các thành viên Nhóm Scrum có can đảm để làm điều đúng đắn, để giải quyết những vấn đề khó khăn.
 
 These values give direction to the Scrum Team with regard to their work, actions, and behavior. The decisions that are made, the steps taken, and the way Scrum is used should reinforce these values, not diminish or undermine them. The Scrum Team members learn and explore the values as they work with the Scrum events and artifacts. When these values are embodied by the Scrum Team and the people they work with, the empirical Scrum pillars of transparency, inspection, and adaptation come to life building trust.
 
 Những giá trị này chỉ hướng cho Nhóm Scrum về công việc, hành động và cách cư xử của họ. Các quyết định được đưa ra, các bước đã thực hiện và cách sử dụng Scrum phải củng cố những giá trị này, không làm giảm hoặc làm suy yếu chúng. Các thành viên Nhóm Scrum tìm hiểu và khám phá các giá trị khi họ làm việc với các sự kiện và tạo vật của Scrum. Khi những giá trị này được hiện thân trong Nhóm Scrum và những người mà họ làm việc cùng, các trụ cột minh bạch, kiểm tra và thích ứng của chủ nghĩa kinh nghiệm trong Scrum sẽ hiện thực hóa và xây dựng niềm tin.
 
-Scrum Team
+Nhóm Scrum
 ----------
 
-The fundamental unit of Scrum is a small team of people, a Scrum Team. The Scrum Team consists of one Scrum Master, one Product Owner, and Developers. Within a Scrum Team, there are no sub-teams or hierarchies. It is a cohesive unit of professionals focused on one objective at a time, the Product Goal.
+Đơn vị cơ bản của Scrum là một nhóm nhỏ, gọi là Nhóm Scrum. Nhóm Scrum bao gồm một Trưởng Scrum *(NV: Scrum Master)*, một Chủ sản phẩm *(NV: Product Owner)* và các Nhà phát triển. Trong một Nhóm Scrum, không có nhóm con hoặc hệ thống phân cấp. Nó là một đơn vị gắn kết của các chuyên gia tập trung vào một mục tiêu tại một thời điểm, Mục tiêu Sản phẩm.
 
-Scrum Teams are cross-functional, meaning the members have all the skills necessary to create value each Sprint. They are also self-managing, meaning they internally decide who does what, when, and how.
+Các Nhóm Scrum có tính chức năng chéo, nghĩa là các thành viên có tất cả các kỹ năng cần thiết để tạo ra giá trị mỗi Sprint. Họ cũng tự quản lý, có nghĩa là họ quyết định nội bộ ai làm gì, khi nào và như thế nào.
 
-The Scrum Team is small enough to remain nimble and large enough to complete significant work within a Sprint, typically 10 or fewer people. In general, we have found that smaller teams communicate better and are more productive. If Scrum Teams become too large, they should consider reorganizing into multiple cohesive Scrum Teams, each focused on the same product. Therefore, they should share the same Product Goal, Product Backlog, and Product Owner.
+Nhóm Scrum đủ nhỏ để duy trì sự nhanh nhẹn và đủ lớn để hoàn thành công việc có ý nghĩa trong Sprint, tiêu biểu là 10 người hoặc ít hơn. Nhìn chung, chúng tôi nhận thấy rằng các nhóm nhỏ hơn giao tiếp tốt hơn và làm việc năng suất hơn. Nếu các Nhóm Scrum trở nên quá lớn, họ nên cân nhắc tổ chức lại thành nhiều Nhóm Scrum gắn kết, mỗi nhóm tập trung vào cùng một sản phẩm. Do đó, họ nên chia sẻ cùng một Mục tiêu Sản phẩm, Tồn đơn sản phẩm và Chủ sản phẩm *(NV: Product Goal, Product Backlog, and Product Owner)*
 
-The Scrum Team is responsible for all product-related activities from stakeholder collaboration, verification, maintenance, operation, experimentation, research and development, and anything else that might be required. They are structured and empowered by the organization to manage their own work. Working in Sprints at a sustainable pace improves the Scrum Team’s focus and consistency.
+Nhóm Scrum chịu trách nhiệm về tất cả các hoạt động liên quan đến sản phẩm từ sự hợp tác với các bên liên quan, kiểm tra, bảo trì, vận hành, thử nghiệm, nghiên cứu và phát triển và bất kỳ hoạt động nào khác có thể được yêu cầu. Họ được cấu trúc và trao quyền bởi tổ chức để quản lý công việc của chính họ. Làm việc trong các Sprint với một nhịp độ bền vững cải thiện sự tập trung và tính ổn định của Nhóm Scrum.
 
-The entire Scrum Team is accountable for creating a valuable, useful Increment every Sprint. Scrum defines three specific accountabilities within the Scrum Team: the Developers, the Product Owner, and the Scrum Master.
+Toàn bộ Nhóm Scrum có trách nhiệm tạo ra Gia tăng *(NV: Increment)* giá trị và hữu ích mỗi Sprint. Scrum định rõ 3 hình thái trách nhiệm *(NV: accountability)* cụ thể trong Nhóm Scrum: Nhà phát triển, Chủ sản phẩm và Trưởng Scrum *(NV: the Developers, the Product Owner, and the Scrum Master).
+
 
 ### Developers
 
