@@ -98,26 +98,21 @@ Các kỹ năng cụ thể mà Nhà phát triển cần có thường rộng và
 - Giao và giữ trách nhiệm với nhau *(NV: Holding each other accountable)* như những người chuyên nghiệp.
 
 
-### Product Owner
+### Chủ Sản Phẩm
 
-The Product Owner is accountable for maximizing the value of the product resulting from the work of the Scrum Team. How this is done may vary widely across organizations, Scrum Teams, and individuals.
+Chủ Sản Phẩm *(NV: Product Owner)* có trách nhiệm tối đa hóa giá trị của sản phẩm tạo thành từ lao động của Nhóm Scrum. Cách thực hiện điều này có thể rất khác nhau giữa các tổ chức, Nhóm Scrum và cá nhân.
 
-The Product Owner is also accountable for effective Product Backlog management, which includes:
+Chủ Sản Phẩm cũng có trách nhiệm quản lý hiệu quả Tồn Đơn Sản Phẩm *(NV: Product Backlog)* hiệu quả, bao gồm:
+- Phát triển và thông tin minh bạch Mục tiêu Sản phẩm;
+- Tạo ra và thông tin rõ ràng các mục trong Tồn Đơn Sản Phẩm;
+- Đặt hàng các mục trong Tồn Đơn Sản Phẩm; và,
+- Đảm bảo rằng Tồn Đơn Sản Phẩm minh bạch, có thể nhìn thấy và hiểu được
 
-*   Developing and explicitly communicating the Product Goal;
-    
-*   Creating and clearly communicating Product Backlog items;
-    
-*   Ordering Product Backlog items; and,
-    
-*   Ensuring that the Product Backlog is transparent, visible and understood.
-    
+Chủ Sản Phẩm có thể thực hiện các công việc trên hoặc có thể ủy thác cho người khác. Bất kể thế nào, Chủ Sản Phẩm vẫn chịu trách nhiệm tổng.
 
-The Product Owner may do the above work or may delegate the responsibility to others. Regardless, the Product Owner remains accountable.
+Để Chủ Sản Phẩm thành công, toàn bộ tổ chức phải tôn trọng các quyết định của họ. Những quyết định này có thể thấy được trong nội dung và thứ tự của Tồn Đơn Sản Phẩm, và qua phần Gia tăng có thể kiểm tra được tại Sơ kết Sprint *(NV: Sprint Review)*.
 
-For Product Owners to succeed, the entire organization must respect their decisions. These decisions are visible in the content and ordering of the Product Backlog, and through the inspectable Increment at the Sprint Review.
-
-The Product Owner is one person, not a committee. The Product Owner may represent the needs of many stakeholders in the Product Backlog. Those wanting to change the Product Backlog can do so by trying to convince the Product Owner.
+Chủ Sản Phẩm là một người, không phải một ủy ban. Chủ Sản Phẩm có thể đại diện cho nhu cầu của nhiều bên quan tâm và lợi ích *(NV: stakeholders)* trong Tồn Đơn Sản Phẩm. Những ai muốn thay đổi Tồn Đơn Sản Phẩm có thể làm vậy bằng cách cố gắng thuyết phục Chủ Sản Phẩm.
 
 ### Scrum Master
 
