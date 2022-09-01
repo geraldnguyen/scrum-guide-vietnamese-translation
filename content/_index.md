@@ -142,8 +142,12 @@ Scrum Master phục vụ tổ chức theo nhiều cách, bao gồm:
 - Loại bỏ các rào cản giữa các bên quan tâm và lợi ích và Nhóm Scrum.
 
 
-Scrum Events
+Các Sự Kiện Scrum
 ------------
+
+Sprint là nơi chứa tất cả các sự kiện khác. Mỗi sự kiện trong Scrum là một cơ hội chính thức để kiểm tra và điều chỉnh các tạo vật của Scrum. Những sự kiện này được thiết kế đặc biệt để tạo ra sự minh bạch cần thiết. Không thực hiện bất kỳ sự kiện nào theo chỉ định dẫn đến mất cơ hội để kiểm tra và điều chỉnh. Các sự kiện được sử dụng trong Scrum để tạo sự đều đặn và giảm thiểu nhu cầu họp không có trong Scrum.
+
+Tối ưu nhất, tất cả các sự kiện được tổ chức tại cùng một thời điểm và địa điểm để giảm bớt sự phức tạp.
 
 The Sprint is a container for all other events. Each event in Scrum is a formal opportunity to inspect and adapt Scrum artifacts. These events are specifically designed to enable the transparency required. Failure to operate any events as prescribed results in lost opportunities to inspect and adapt. Events are used in Scrum to create regularity and to minimize the need for meetings not defined in Scrum.
 
