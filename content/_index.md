@@ -114,46 +114,33 @@ Chủ Sản Phẩm có thể thực hiện các công việc trên hoặc có th
 
 Chủ Sản Phẩm là một người, không phải một ủy ban. Chủ Sản Phẩm có thể đại diện cho nhu cầu của nhiều bên quan tâm và lợi ích *(NV: stakeholders)* trong Tồn Đơn Sản Phẩm. Những ai muốn thay đổi Tồn Đơn Sản Phẩm có thể làm vậy bằng cách cố gắng thuyết phục Chủ Sản Phẩm.
 
-### Scrum Master
+### Trưởng Scrum
 
-The Scrum Master is accountable for establishing Scrum as defined in the Scrum Guide. They do this by helping everyone understand Scrum theory and practice, both within the Scrum Team and the organization.
+Trưởng Scrum *(NV: Scrum Master)* có trách nhiệm xây dựng Scrum theo định nghĩa trong Hướng dẫn Scrum. Họ làm điều này bằng cách giúp mọi người hiểu lý thuyết và thực hành Scrum, cả bên trong Nhóm Scrum và tổ chức.
 
-The Scrum Master is accountable for the Scrum Team’s effectiveness. They do this by enabling the Scrum Team to improve its practices, within the Scrum framework.
+Trưởng Scrum chịu trách nhiệm về hiệu quả của Nhóm Scrum. Họ thực hiện điều này bằng cách giúp Nhóm Scrum cải thiện các thực hành của mình, trong khuôn khổ Scrum.
 
-Scrum Masters are true leaders who serve the Scrum Team and the larger organization.
+Trưởng Scrum là những nhà lãnh đạo thực sự phục vụ cho Nhóm Scrum và tổ chức lớn hơn.
 
-The Scrum Master serves the Scrum Team in several ways, including:
+Trưởng Scrum phục vụ Nhóm Scrum theo nhiều cách, bao gồm:
+- Huấn luyện các thành viên trong nhóm về việc tự quản lý và chức năng chéo;
+- Giúp Nhóm Scrum tập trung vào việc tạo ra các Gia tăng có giá trị cao đáp ứng Định nghĩa Hoàn thành *(NV: Definition of Done)*;
+- Khiến loại bỏ các trở ngại đối với sự tiến triển của Nhóm Scrum; và,
+- Đảm bảo rằng tất cả các sự kiện Scrum diễn ra và có tính tích cực, hiệu quả và trong thời lượng
 
-*   Coaching the team members in self-management and cross-functionality;
-    
-*   Helping the Scrum Team focus on creating high-value Increments that meet the Definition of Done;
-    
-*   Causing the removal of impediments to the Scrum Team’s progress; and,
-    
-*   Ensuring that all Scrum events take place and are positive, productive, and kept within the timebox.
-    
+Trưởng Scrum phục vụ Chủ Sản Phẩm theo nhiều cách, bao gồm:
+- Giúp tìm ra các kỹ thuật để xác định Mục tiêu Sản Phẩm hiệu quả và quản lý Tồn Đơn Sản Phẩm;
+- Giúp Nhóm Scrum hiểu được sự cần thiết của các mục Tồn Đơn Sản Phẩm rõ ràng và ngắn gọn;
+- Giúp thiết lập việc lên kế hoạch sản phẩm dựa trên thực nghiệm cho một môi trường phức tạp; và,
+- Tạo điều kiện hợp tác với các bên quan tâm và lợi ích khi được yêu cầu hoặc cần thiết.
 
-The Scrum Master serves the Product Owner in several ways, including:
 
-*   Helping find techniques for effective Product Goal definition and Product Backlog management;
-    
-*   Helping the Scrum Team understand the need for clear and concise Product Backlog items;
-    
-*   Helping establish empirical product planning for a complex environment; and,
-    
-*   Facilitating stakeholder collaboration as requested or needed.
-    
+Scrum Master phục vụ tổ chức theo nhiều cách, bao gồm:
+- Lãnh đạo, đào tạo và huấn luyện tổ chức trong việc áp dụng Scrum;
+- Lập kế hoạch và tư vấn triển khai Scrum trong tổ chức;
+- Giúp nhân viên và các bên quan tâm và lợi ích hiểu và thực hiện một cách tiếp cận thực nghiệm cho các công việc phức tạp; và,
+- Loại bỏ các rào cản giữa các bên quan tâm và lợi ích và Nhóm Scrum.
 
-The Scrum Master serves the organization in several ways, including:
-
-*   Leading, training, and coaching the organization in its Scrum adoption;
-    
-*   Planning and advising Scrum implementations within the organization;
-    
-*   Helping employees and stakeholders understand and enact an empirical approach for complex work; and,
-    
-*   Removing barriers between stakeholders and Scrum Teams.
-    
 
 Scrum Events
 ------------
