@@ -145,38 +145,30 @@ Scrum Master phục vụ tổ chức theo nhiều cách, bao gồm:
 Các Sự Kiện Scrum
 ------------
 
-Sprint là nơi chứa tất cả các sự kiện khác. Mỗi sự kiện trong Scrum là một cơ hội chính thức để kiểm tra và điều chỉnh các tạo vật của Scrum. Những sự kiện này được thiết kế đặc biệt để tạo ra sự minh bạch cần thiết. Không thực hiện bất kỳ sự kiện nào theo chỉ định dẫn đến mất cơ hội để kiểm tra và điều chỉnh. Các sự kiện được sử dụng trong Scrum để tạo sự đều đặn và giảm thiểu nhu cầu họp không có trong Scrum.
+Sprint là nơi chứa tất cả các sự kiện khác. Mỗi sự kiện trong Scrum là một cơ hội chính thức để kiểm tra và điều chỉnh các tạo vật của Scrum. Những sự kiện này được thiết kế đặc biệt để tạo ra sự minh bạch cần thiết. Không thực hiện được bất cứ sự kiện nào như chỉ định dẫn đến mất cơ hội để kiểm tra và điều chỉnh. Các sự kiện được sử dụng trong Scrum để tạo sự đều đặn và giảm thiểu nhu cầu họp không có trong Scrum.
 
 Tối ưu nhất, tất cả các sự kiện được tổ chức tại cùng một thời điểm và địa điểm để giảm bớt sự phức tạp.
 
-The Sprint is a container for all other events. Each event in Scrum is a formal opportunity to inspect and adapt Scrum artifacts. These events are specifically designed to enable the transparency required. Failure to operate any events as prescribed results in lost opportunities to inspect and adapt. Events are used in Scrum to create regularity and to minimize the need for meetings not defined in Scrum.
+### Sprint
 
-Optimally, all events are held at the same time and place to reduce complexity.
+Sprint là nhịp tim của Scrum, nơi các ý tưởng được biến thành giá trị.
 
-### The Sprint
+Chúng là các sự kiện có độ dài cố định từ một tháng hoặc ít hơn để tạo tính nhất quán. Một Sprint mới bắt đầu ngay sau khi kết thúc Sprint trước đó.
 
-Sprints are the heartbeat of Scrum, where ideas are turned into value.
+Tất cả các công việc cần thiết để đạt được Mục Tiêu Sản Phẩm, bao gồm Lập kế hoạch Sprint, Scrum hàng ngày *(NV: Daily Scrums)*, Sơ kết Sprint *(NV: Sprint Review)* và Tổng kết Sprint *(NV: Sprint Retrospective)*, diễn ra trong Sprint.
 
-They are fixed length events of one month or less to create consistency. A new Sprint starts immediately after the conclusion of the previous Sprint.
+Trong một Sprint:
+- Không thực hiện những thay đổi có thể gây nguy hiểm cho Mục tiêu Sprint;
+- Chất lượng không giảm;
+- Tồn Đơn Sản Phẩm *(NV: Product Backlog)* được tinh lọc khi cần thiết; và,
+- Phạm vi có thể được làm rõ và thương lượng lại với Chủ sản phẩm khi đã hiểu thêm.
 
-All the work necessary to achieve the Product Goal, including Sprint Planning, Daily Scrums, Sprint Review, and Sprint Retrospective, happen within Sprints.
+Sprint tạo khả năng dự đoán bằng cách đảm bảo việc kiểm tra và điều chỉnh tiến độ hướng đến Mục tiêu sản phẩm ít nhất mỗi tháng một lần. Khi lộ trình của Sprint quá dài, Mục tiêu Sprint có thể trở nên không hợp lệ, tính phức tạp có thể tăng lên và rủi ro có thể nhiều hơn. Các Sprint ngắn hơn có thể được sử dụng để tạo ra nhiều chu kỳ học tập hơn và hạn chế rủi ro về chi phí và nỗ lực trong một khung thời gian nhỏ hơn. Mỗi Sprint có thể coi là một dự án ngắn.
 
-During the Sprint:
+Có nhiều phương pháp khác nhau để dự báo tiến độ, chẳng hạn như cháy-giảm, cháy-tăng hoặc dòng lũy kế *(NV: burn-downs, burn-ups, or cumulative flows)*. Mặc dù đã được chứng minh là hữu ích, những cách này không thay thế tầm quan trọng của chủ nghĩa kinh nghiệm. Trong những môi trường phức tạp, chuyện gì sẽ xảy ra là điều không biết. Chỉ những gì đã xảy ra mới có thể được sử dụng cho các quyết định hướng về phía trước.
 
-*   No changes are made that would endanger the Sprint Goal;
-    
-*   Quality does not decrease;
-    
-*   The Product Backlog is refined as needed; and,
-    
-*   Scope may be clarified and renegotiated with the Product Owner as more is learned.
-    
+Một Sprint có thể bị hủy bỏ nếu Mục tiêu Sprint trở nên lỗi thời. Chỉ Chủ Sản Phẩm mới có quyền hủy Sprint.
 
-Sprints enable predictability by ensuring inspection and adaptation of progress toward a Product Goal at least every calendar month. When a Sprint’s horizon is too long the Sprint Goal may become invalid, complexity may rise, and risk may increase. Shorter Sprints can be employed to generate more learning cycles and limit risk of cost and effort to a smaller time frame. Each Sprint may be considered a short project.
-
-Various practices exist to forecast progress, like burn-downs, burn-ups, or cumulative flows. While proven useful, these do not replace the importance of empiricism. In complex environments, what will happen is unknown. Only what has already happened may be used for forward-looking decision making.
-
-A Sprint could be cancelled if the Sprint Goal becomes obsolete. Only the Product Owner has the authority to cancel the Sprint.
 
 ### Sprint Planning
 
