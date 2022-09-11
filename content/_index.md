@@ -170,7 +170,7 @@ Có nhiều phương pháp khác nhau để dự báo tiến độ, chẳng hạ
 Một Sprint có thể bị hủy bỏ nếu Mục tiêu Sprint trở nên lỗi thời. Chỉ Chủ Sản Phẩm mới có quyền hủy Sprint.
 
 
-### Lập Kế Hoạch Sprint
+### Lập Kế Hoạch Sprint *(NV: Sprint Planning)*
 
 Sự kiện Lập kế hoạch Sprint bắt đầu Sprint bằng cách đặt ra các công việc cần thực hiện cho Sprint. Kế hoạch có được này được tạo ra bởi việc cộng tác của toàn bộ Nhóm Scrum.
 
@@ -208,13 +208,13 @@ Scrums Hàng ngày cải thiện sự liên lạc, xác định các trở ngạ
 
 Scrum Hàng ngày không phải là lần duy nhất các Nhà phát triển được phép điều chỉnh kế hoạch của họ. Họ thường gặp nhau suốt trong ngày để thảo luận chi tiết hơn về việc điều chỉnh hoặc lập lại kế hoạch cho phần còn lại của công việc Sprint.
 
-### Sprint Review
+### Sơ kết Sprint *(NV: Sprint Review)*
 
-The purpose of the Sprint Review is to inspect the outcome of the Sprint and determine future adaptations. The Scrum Team presents the results of their work to key stakeholders and progress toward the Product Goal is discussed.
+Mục đích của Sơ kết Sprint là kiểm tra kết quả của Sprint và xác định các điều chỉnh trong tương lai. Nhóm Scrum trình bày kết quả công việc của họ trước các bên quan tâm và lợi ích chủ chốt và tiến trình hướng tới Mục tiêu Sản phẩm được thảo luận.
 
-During the event, the Scrum Team and stakeholders review what was accomplished in the Sprint and what has changed in their environment. Based on this information, attendees collaborate on what to do next. The Product Backlog may also be adjusted to meet new opportunities. The Sprint Review is a working session and the Scrum Team should avoid limiting it to a presentation.
+Trong sự kiện này, Nhóm Scrum và các bên quan tâm và lợi ích xem xét những gì đã đạt được trong Sprint và những gì đã thay đổi trong môi trường của họ. Dựa trên thông tin này, những người tham dự cộng tác về việc cần làm tiếp theo. Tồn đơn Sản phẩm cũng có thể được điều chỉnh để đón các cơ hội mới. Sơ kết Sprint là một buổi làm việc và Nhóm Scrum nên tránh giới hạn nó thành một phiên thuyết trình.
 
-The Sprint Review is the second to last event of the Sprint and is timeboxed to a maximum of four hours for a one-month Sprint. For shorter Sprints, the event is usually shorter.
+Sơ kết Sprint là sự kiện thứ hai về cuối *(NV: second to last event)* của Sprint và có thời gian tối đa là bốn giờ cho Sprint một-tháng. Đối với Sprint ngắn hơn, sự kiện thường ngắn hơn.
 
 ### Sprint Retrospective
 
