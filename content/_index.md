@@ -216,15 +216,15 @@ Trong sự kiện này, Nhóm Scrum và các bên quan tâm và lợi ích xem x
 
 Sơ kết Sprint là sự kiện thứ hai về cuối *(NV: second to last event)* của Sprint và có thời gian tối đa là bốn giờ cho Sprint một-tháng. Đối với Sprint ngắn hơn, sự kiện thường ngắn hơn.
 
-### Sprint Retrospective
+### Tổng kết Sprint *(NV: Sprint Retrospective)*
 
-The purpose of the Sprint Retrospective is to plan ways to increase quality and effectiveness.
+Mục đích của Tổng kết Sprint là dự trù các cách thức để tăng chất lượng và hiệu quả.
 
-The Scrum Team inspects how the last Sprint went with regards to individuals, interactions, processes, tools, and their Definition of Done. Inspected elements often vary with the domain of work. Assumptions that led them astray are identified and their origins explored. The Scrum Team discusses what went well during the Sprint, what problems it encountered, and how those problems were (or were not) solved.
+Nhóm Scrum xem xét kỹ cách Sprint cuối cùng diễn ra liên quan đến các cá nhân, tương tác, quy trình, công cụ và Định nghĩa về việc hoàn thành của nhóm. Các yếu tố được kiểm tra thường khác biệt theo lĩnh vực công việc. Các giả định khiến chúng lạc lối được xác định và nguồn gốc của các giả định đó được khám phá. Nhóm Scrum thảo luận về những gì diễn ra tốt trong Sprint, những vấn đề mà nhóm gặp phải và cách những vấn đề đó được giải quyết (hoặc không).
 
-The Scrum Team identifies the most helpful changes to improve its effectiveness. The most impactful improvements are addressed as soon as possible. They may even be added to the Sprint Backlog for the next Sprint.
+Nhóm Scrum xác định những thay đổi hữu ích nhất để cải thiện hiệu quả của nhóm. Những cải tiến có tác động nhất được xem xét sớm nhất có thể. Chúng thậm chí có thể được thêm vào Tồn đơn Sprint cho Sprint tiếp theo.
 
-The Sprint Retrospective concludes the Sprint. It is timeboxed to a maximum of three hours for a one-month Sprint. For shorter Sprints, the event is usually shorter.
+Tổng kết Sprint kết thúc Sprint. Nó có giới hạn thời gian tối đa là ba giờ cho một Sprint một-tháng. Đối với Sprint ngắn hơn, sự kiện thường ngắn hơn.
 
 Scrum Artifacts
 ---------------
