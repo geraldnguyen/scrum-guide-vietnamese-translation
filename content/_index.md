@@ -196,17 +196,17 @@ Mục tiêu Sprint, các mục trong Tồn Đơn Sản Phẩm được chọn ch
 
 Việc Lập kế hoạch Sprint có giới hạn thời gian tối đa là tám giờ cho một Sprint một-tháng. Với những Sprint ngắn hơn, sự kiện này thường ngắn hơn.
 
-### Daily Scrum
+### Scrum hàng ngày *(NV: Daily Scrums)*
 
-The purpose of the Daily Scrum is to inspect progress toward the Sprint Goal and adapt the Sprint Backlog as necessary, adjusting the upcoming planned work.
+Mục đích của Scrum Hàng ngày là kiểm tra tiến độ hướng tới Mục tiêu Sprint và chỉnh sửa Tồn Đơn Sprint *(NV: Sprint Backlog)* khi cần thiết, điều chỉnh công việc đã lên kế hoạch sắp tới.
 
-The Daily Scrum is a 15-minute event for the Developers of the Scrum Team. To reduce complexity, it is held at the same time and place every working day of the Sprint. If the Product Owner or Scrum Master are actively working on items in the Sprint Backlog, they participate as Developers.
+Scrum Hàng ngày là một sự kiện dài 15 phút dành cho các Nhà phát triển của Nhóm Scrum. Để giảm phức tạp, nó được tổ chức vào cùng giờ và địa điểm mỗi ngày làm việc trong Sprint. Nếu Chủ Sản Phẩm hoặc Trưởng Scrum đang tích cực làm việc trên các mục trong Tồn Đơn Sprint, họ tham gia với tư cách là Nhà phát triển.
 
-The Developers can select whatever structure and techniques they want, as long as their Daily Scrum focuses on progress toward the Sprint Goal and produces an actionable plan for the next day of work. This creates focus and improves self-management.
+Các Nhà phát triển có thể chọn bất kỳ cấu trúc và kỹ thuật nào họ muốn, miễn là Scrum Hàng ngày của họ tập trung vào tiến độ hướng tới Mục tiêu Sprint và đưa ra một kế hoạch khả thi cho ngày làm việc tiếp theo. Điều này tạo ra sự tập trung và cải thiện sự tự quản lý.
 
-Daily Scrums improve communications, identify impediments, promote quick decision-making, and consequently eliminate the need for other meetings.
+Scrums Hàng ngày cải thiện sự liên lạc, xác định các trở ngại, thúc đẩy việc quyết định nhanh chóng và do đó loại bỏ nhu cầu cho các cuộc họp khác.
 
-The Daily Scrum is not the only time Developers are allowed to adjust their plan. They often meet throughout the day for more detailed discussions about adapting or re-planning the rest of the Sprint’s work.
+Scrum Hàng ngày không phải là lần duy nhất các Nhà phát triển được phép điều chỉnh kế hoạch của họ. Họ thường gặp nhau suốt trong ngày để thảo luận chi tiết hơn về việc điều chỉnh hoặc lập lại kế hoạch cho phần còn lại của công việc Sprint.
 
 ### Sprint Review
 
