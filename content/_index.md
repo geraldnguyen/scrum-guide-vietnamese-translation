@@ -170,31 +170,31 @@ Có nhiều phương pháp khác nhau để dự báo tiến độ, chẳng hạ
 Một Sprint có thể bị hủy bỏ nếu Mục tiêu Sprint trở nên lỗi thời. Chỉ Chủ Sản Phẩm mới có quyền hủy Sprint.
 
 
-### Sprint Planning
+### Lập Kế Hoạch Sprint
 
-Sprint Planning initiates the Sprint by laying out the work to be performed for the Sprint. This resulting plan is created by the collaborative work of the entire Scrum Team.
+Sự kiện Lập kế hoạch Sprint bắt đầu Sprint bằng cách đặt ra các công việc cần thực hiện cho Sprint. Kế hoạch có được này được tạo ra bởi việc cộng tác của toàn bộ Nhóm Scrum.
 
-The Product Owner ensures that attendees are prepared to discuss the most important Product Backlog items and how they map to the Product Goal. The Scrum Team may also invite other people to attend Sprint Planning to provide advice.
+Chủ Sản Phẩm đảm bảo rằng những người tham dự được chuẩn bị để thảo luận về các mục quan trọng nhất trong Tồn Đơn Sản Phẩm và cách chúng dẫn đến Mục tiêu Sản phẩm. Nhóm Scrum cũng có thể mời những người khác tham gia sự kiện Lập kế hoạch Sprint để đưa ra lời khuyên.
 
-Sprint Planning addresses the following topics:
+Lập kế hoạch Sprint giải quyết các chủ đề sau:
 
-#### Topic One: Why is this Sprint valuable?
+#### Chủ đề Một: Tại sao Sprint này có giá trị?
 
-The Product Owner proposes how the product could increase its value and utility in the current Sprint. The whole Scrum Team then collaborates to define a Sprint Goal that communicates why the Sprint is valuable to stakeholders. The Sprint Goal must be finalized prior to the end of Sprint Planning.
+Chủ Sản Phẩm đề xuất cách sản phẩm có thể tăng giá trị và tiện ích của nó trong Sprint hiện tại. Sau đó, toàn bộ Nhóm Scrum sẽ hợp tác để định rõ một Mục tiêu Sprint nhằm truyền đạt lý do tại sao Sprint lại có giá trị đối với các bên quan tâm và lợi ích. Mục tiêu Sprint phải được hoàn thành trước khi kết thúc Lập kế hoạch Sprint.
 
-#### Topic Two: What can be Done this Sprint?
+#### Chủ đề Hai: Điều gì có thể hoàn thành trong Sprint này?
 
-Through discussion with the Product Owner, the Developers select items from the Product Backlog to include in the current Sprint. The Scrum Team may refine these items during this process, which increases understanding and confidence.
+Qua thảo luận với Chủ Sản Phẩm, các Nhà phát triển chọn các mục từ Tồn Đơn Sản Phẩm *(NV: Product Backlog)* để đưa vào Sprint hiện tại. Nhóm Scrum có thể tinh chỉnh các mục trong quá trình này, điều này tăng thêm sự hiểu biết và tự tin.
 
-Selecting how much can be completed within a Sprint may be challenging. However, the more the Developers know about their past performance, their upcoming capacity, and their Definition of Done, the more confident they will be in their Sprint forecasts.
+Việc lựa chọn số lượng có thể hoàn thành trong một Sprint có thể là một thách thức. Tuy nhiên, khi các Nhà phát triển càng biết nhiều về quá trình thực hiện *(NV: past performance)* của họ trong quá khứ, năng lực sắp tới và Định nghĩa Hoàn thành của họ, thì họ càng tự tin vào các dự báo Sprint của mình.
 
-#### Topic Three: How will the chosen work get done?
+#### Chủ đề Ba: Công việc đã chọn sẽ được hoàn thành như thế nào?
 
-For each selected Product Backlog item, the Developers plan the work necessary to create an Increment that meets the Definition of Done. This is often done by decomposing Product Backlog items into smaller work items of one day or less. How this is done is at the sole discretion of the Developers. No one else tells them how to turn Product Backlog items into Increments of value.
+Đối với mỗi mục trong Tồn Đơn Sản Phẩm đã chọn, Nhà phát triển lập kế hoạch công việc cần thiết để tạo một Gia tăng đáp ứng Định nghĩa Hoàn thành. Điều này thường được thực hiện bằng cách chia nhỏ các mục trong Tồn Đơn Sản Phẩm thành các mục công việc nhỏ hơn của một ngày hoặc ít hơn. Cách thực hiện như thế nào do các Nhà phát triển tùy ý quyết định. Không ai khác chỉ cho họ cách biến các mục mục trong Tồn Đơn Sản Phẩm thành các Gia tăng giá trị.
 
-The Sprint Goal, the Product Backlog items selected for the Sprint, plus the plan for delivering them are together referred to as the Sprint Backlog.
+Mục tiêu Sprint, các mục trong Tồn Đơn Sản Phẩm được chọn cho Sprint, cộng với kế hoạch thực hiện chúng được gọi chung là Tồn Đơn Sprint *(NV: Sprint Backlog)*.
 
-Sprint Planning is timeboxed to a maximum of eight hours for a one-month Sprint. For shorter Sprints, the event is usually shorter.
+Việc Lập kế hoạch Sprint có giới hạn thời gian tối đa là tám giờ cho một Sprint một-tháng. Với những Sprint ngắn hơn, sự kiện này thường ngắn hơn.
 
 ### Daily Scrum
 
