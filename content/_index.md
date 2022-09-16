@@ -226,7 +226,7 @@ Nhóm Scrum xác định những thay đổi hữu ích nhất để cải thi�
 
 Tổng kết Sprint kết thúc Sprint. Nó có giới hạn thời gian tối đa là ba giờ cho một Sprint một-tháng. Đối với Sprint ngắn hơn, sự kiện thường ngắn hơn.
 
-tạo phẩm Scrum
+Tạo phẩm Scrum
 ---------------
 
 Các tạo phẩm của Scrum tượng trưng cho công việc hoặc giá trị. Chúng được thiết kế để tăng tối đa sự minh bạch của thông tin chính yếu. Vì vậy, mỗi người kiểm tra chúng đều có cùng cơ sở để thích ứng.
