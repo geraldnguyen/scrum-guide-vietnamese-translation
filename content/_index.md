@@ -237,15 +237,15 @@ Mỗi tạo phẩm có một cam kết để đảm bảo nó cung cấp thông 
 - Đối với Tồn đơn Sprint, đó là Mục tiêu Sprint.
 - Đối với Gia tăng, đó là Định nghĩa Hoàn thành.
 
-Những cam kết này tồn tại để củng cố chủ nghĩa kinh nghiệm và các giá trị Scrum cho Nhóm Scrum và các bên liên quan và lợi ích.
+Những cam kết này hiện hữu để củng cố chủ nghĩa kinh nghiệm và các giá trị Scrum cho Nhóm Scrum và các bên liên quan và lợi ích.
 
-### Product Backlog
+### Tồn đơn sản phẩm
 
-The Product Backlog is an emergent, ordered list of what is needed to improve the product. It is the single source of work undertaken by the Scrum Team.
+Tồn đơn sản phẩm là một danh sách thay đổi *(NV: emergent. Người dịch: ví dụ: đơn hàng mới xuất hiện, hoặc đơn hàng cũ "nổi" lên trên bảng xếp hạng)*, có thứ tự của những gì cần để hoàn thiện sản phẩm. Đây là nguồn duy nhất cho công việc phải làm bởi Nhóm Scrum.
 
-Product Backlog items that can be Done by the Scrum Team within one Sprint are deemed ready for selection in a Sprint Planning event. They usually acquire this degree of transparency after refining activities. Product Backlog refinement is the act of breaking down and further defining Product Backlog items into smaller more precise items. This is an ongoing activity to add details, such as a description, order, and size. Attributes often vary with the domain of work.
+Các hạng mục Tồn đơn sản phẩm có thể được Hoàn thành bởi Nhóm Scrum trong một Sprint được coi là sẵn sàng để lựa chọn trong sự kiện Lập kế hoạch Sprint. Họ thường đạt đến mức độ minh bạch này sau các hoạt động tinh lọc. Tinh lọc Tồn đơn sản phẩm là hành động chia nhỏ và định nghĩa rõ hơn các mục Tồn đơn sản phẩm thành những mục nhỏ hơn, chính xác hơn. Đây là một hoạt động thường xuyên để thêm chi tiết, chẳng hạn mô tả, thứ tự và kích cỡ. Các thuộc tính thường thay đổi theo lĩnh vực công việc.
 
-The Developers who will be doing the work are responsible for the sizing. The Product Owner may influence the Developers by helping them understand and select trade-offs.
+Các nhà phát triển những người sẽ hoàn thành công việc chịu trách nhiệm về việc định cỡ. Chủ sản phẩm có thể tác động đến Nhà phát triển bằng cách giúp họ hiểu và chọn lựa giữa các đánh đổi.
 
 #### Commitment: Product Goal
 
