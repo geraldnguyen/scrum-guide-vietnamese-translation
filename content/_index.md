@@ -46,13 +46,13 @@ Scrum kết hợp bốn sự kiện chính thức cho việc kiểm tra và tùy
 
 ### Minh Bạch
 
-Quá trình và công việc sắp làm phải trở nên rõ ràng với những người thực hiện công việc cũng như những người tiếp nhận công việc. Với Scrum, các quyết định quan trọng được dựa trên trạng thái nhận thức của ba tạo vật chính thức. Các tạo vật có tính minh bạch thấp có thể dẫn đến các quyết định làm giảm giá trị và tăng rủi ro.
+Quá trình và công việc sắp làm phải trở nên rõ ràng với những người thực hiện công việc cũng như những người tiếp nhận công việc. Với Scrum, các quyết định quan trọng được dựa trên trạng thái nhận thức của ba tạo phẩm chính thức. Các tạo phẩm có tính minh bạch thấp có thể dẫn đến các quyết định làm giảm giá trị và tăng rủi ro.
 
 Tính minh bạch cho phép kiểm tra. Kiểm tra mà không minh bạch gây hiểu lầm và lãng phí.
 
 ### Kiểm Tra
 
-Các tạo vật của Scrum và tiến trình tới các mục tiêu đã thống nhất phải được kiểm tra thường xuyên và siêng năng để phát hiện các thay đổi không mong muốn hoặc các trục trặc có thể xảy ra. Để giúp cho việc kiểm tra, Scrum tạo ra nhịp điệu dưới dạng năm sự kiện.
+Các tạo phẩm của Scrum và tiến trình tới các mục tiêu đã thống nhất phải được kiểm tra thường xuyên và siêng năng để phát hiện các thay đổi không mong muốn hoặc các trục trặc có thể xảy ra. Để giúp cho việc kiểm tra, Scrum tạo ra nhịp điệu dưới dạng năm sự kiện.
 
 Việc kiểm tra cho phép thích ứng. Kiểm tra mà không ứng đổi được coi là vô nghĩa. Các sự kiện Scrum được thiết kế để kích thích sự thay đổi.
 
@@ -72,7 +72,7 @@ Việc sử dụng thành công Scrum phụ thuộc vào việc mọi người t
 
 Nhóm Scrum cam kết đạt được các mục tiêu của mình và hỗ trợ lẫn nhau. Tập trung chính của họ là công việc của Sprint để đạt được tiến độ tốt nhất có thể đối với những mục tiêu này. Nhóm Scrum và các bên quan tâm và lợi ích *(NV: stakeholders)* cởi mở về công việc và những thách thức. Các thành viên Nhóm Scrum tôn trọng nhau là những người có năng lực, độc lập và được những người cùng làm việc tôn trọng như vậy. Các thành viên Nhóm Scrum có can đảm để làm điều đúng đắn, để giải quyết những vấn đề khó khăn.
 
-Những giá trị này chỉ hướng cho Nhóm Scrum về công việc, hành động và cách cư xử của họ. Các quyết định được đưa ra, các bước đã thực hiện và cách sử dụng Scrum phải củng cố những giá trị này, không làm giảm hoặc làm suy yếu chúng. Các thành viên Nhóm Scrum tìm hiểu và khám phá các giá trị khi họ làm việc với các sự kiện và tạo vật của Scrum. Khi những giá trị này được hiện thân trong Nhóm Scrum và những người mà họ làm việc cùng, các trụ cột minh bạch, kiểm tra và thích ứng của chủ nghĩa kinh nghiệm trong Scrum sẽ hiện thực hóa và xây dựng niềm tin.
+Những giá trị này chỉ hướng cho Nhóm Scrum về công việc, hành động và cách cư xử của họ. Các quyết định được đưa ra, các bước đã thực hiện và cách sử dụng Scrum phải củng cố những giá trị này, không làm giảm hoặc làm suy yếu chúng. Các thành viên Nhóm Scrum tìm hiểu và khám phá các giá trị khi họ làm việc với các sự kiện và tạo phẩm của Scrum. Khi những giá trị này được hiện thân trong Nhóm Scrum và những người mà họ làm việc cùng, các trụ cột minh bạch, kiểm tra và thích ứng của chủ nghĩa kinh nghiệm trong Scrum sẽ hiện thực hóa và xây dựng niềm tin.
 
 Nhóm Scrum
 ----------
@@ -145,7 +145,7 @@ Scrum Master phục vụ tổ chức theo nhiều cách, bao gồm:
 Các Sự Kiện Scrum
 ------------
 
-Sprint là nơi chứa tất cả các sự kiện khác. Mỗi sự kiện trong Scrum là một cơ hội chính thức để kiểm tra và điều chỉnh các tạo vật của Scrum. Những sự kiện này được thiết kế đặc biệt để tạo ra sự minh bạch cần thiết. Không thực hiện được bất cứ sự kiện nào như chỉ định dẫn đến mất cơ hội để kiểm tra và điều chỉnh. Các sự kiện được sử dụng trong Scrum để tạo sự đều đặn và giảm thiểu nhu cầu họp không có trong Scrum.
+Sprint là nơi chứa tất cả các sự kiện khác. Mỗi sự kiện trong Scrum là một cơ hội chính thức để kiểm tra và điều chỉnh các tạo phẩm của Scrum. Những sự kiện này được thiết kế đặc biệt để tạo ra sự minh bạch cần thiết. Không thực hiện được bất cứ sự kiện nào như chỉ định dẫn đến mất cơ hội để kiểm tra và điều chỉnh. Các sự kiện được sử dụng trong Scrum để tạo sự đều đặn và giảm thiểu nhu cầu họp không có trong Scrum.
 
 Tối ưu nhất, tất cả các sự kiện được tổ chức tại cùng một thời điểm và địa điểm để giảm bớt sự phức tạp.
 
@@ -226,21 +226,18 @@ Nhóm Scrum xác định những thay đổi hữu ích nhất để cải thi�
 
 Tổng kết Sprint kết thúc Sprint. Nó có giới hạn thời gian tối đa là ba giờ cho một Sprint một-tháng. Đối với Sprint ngắn hơn, sự kiện thường ngắn hơn.
 
-Scrum Artifacts
+tạo phẩm Scrum
 ---------------
 
-Scrum’s artifacts represent work or value. They are designed to maximize transparency of key information. Thus, everyone inspecting them has the same basis for adaptation.
+Các tạo phẩm của Scrum tượng trưng cho công việc hoặc giá trị. Chúng được thiết kế để tăng tối đa sự minh bạch của thông tin chính yếu. Vì vậy, mỗi người kiểm tra chúng đều có cùng cơ sở để thích ứng.
 
-Each artifact contains a commitment to ensure it provides information that enhances transparency and focus against which progress can be measured:
+Mỗi tạo phẩm có một cam kết để đảm bảo nó cung cấp thông tin tăng thêm tính minh bạch và sự tập trung nhờ đó có thể đo đươc tiến độ:
 
-*   For the Product Backlog it is the Product Goal.
-    
-*   For the Sprint Backlog it is the Sprint Goal.
-    
-*   For the Increment it is the Definition of Done.
-    
+- Đối với Tồn đơn sản phẩm, đó là Mục tiêu của Sản phẩm.
+- Đối với Tồn đơn Sprint, đó là Mục tiêu Sprint.
+- Đối với Gia tăng, đó là Định nghĩa Hoàn thành.
 
-These commitments exist to reinforce empiricism and the Scrum values for the Scrum Team and their stakeholders.
+Những cam kết này tồn tại để củng cố chủ nghĩa kinh nghiệm và các giá trị Scrum cho Nhóm Scrum và các bên liên quan và lợi ích.
 
 ### Product Backlog
 
