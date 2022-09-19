@@ -261,11 +261,11 @@ Tồn đơn Sprint được cấu thành từ Mục tiêu Sprint (lý do), tập
 
 Tồn đơn Sprint là một kế hoạch do các Nhà phát triển và dành cho các Nhà phát triển. Đó là một bức tranh rõ nét, theo thời gian thực về công việc mà các Nhà phát triển dự định hoàn thành trong Sprint để đạt được Mục tiêu Sprint. Do đó, Tồn đơn Sprint được cập nhật trong suốt Sprint khi nhiều điều hơn được sáng tỏ. Nó phải có đủ chi tiết để họ có thể kiểm tra tiến trình của mình trong Scrum Hằng ngày.
 
-#### Commitment: Sprint Goal
+#### Cam Kết: Mục tiêu Sprint
 
-The Sprint Goal is the single objective for the Sprint. Although the Sprint Goal is a commitment by the Developers, it provides flexibility in terms of the exact work needed to achieve it. The Sprint Goal also creates coherence and focus, encouraging the Scrum Team to work together rather than on separate initiatives.
+Mục tiêu Sprint là mục đích duy nhất của Sprint. Mặc dù Mục tiêu Sprint là một cam kết của các Nhà phát triển, nó cung cấp sự linh hoạt về công việc chính xác cần thiết để đạt được nó. Mục tiêu Sprint cũng tạo ra sự gắn kết và tập trung, khuyến khích Nhóm Scrum làm việc cùng nhau thay vì dựa trên các sáng kiến ​​riêng biệt.
 
-The Sprint Goal is created during the Sprint Planning event and then added to the Sprint Backlog. As the Developers work during the Sprint, they keep the Sprint Goal in mind. If the work turns out to be different than they expected, they collaborate with the Product Owner to negotiate the scope of the Sprint Backlog within the Sprint without affecting the Sprint Goal.
+Mục tiêu Sprint được tạo ra trong sự kiện Lập kế hoạch Sprint và sau đó được thêm vào Tồn đơn Sprint. Khi các Nhà phát triển làm việc trong Sprint, họ luôn giữ Mục tiêu Sprint trong đầu. Nếu công việc diễn ra khác với họ mong đợi, họ sẽ cộng tác với Chủ Sản phẩm để thương lượng về phạm vi của Tồn đơn Sprint trong Sprint mà không ảnh hưởng đến Mục tiêu Sprint.
 
 ### Increment
 
