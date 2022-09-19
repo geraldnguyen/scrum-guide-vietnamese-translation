@@ -255,11 +255,11 @@ Mục tiêu Sản phẩm miêu tả một trạng thái tương lai của sản 
 
 Mục tiêu Sản phẩm là mục tiêu dài hạn của Nhóm Scrum. Họ phải hoàn thành (hoặc từ bỏ) một mục tiêu trước khi thực hiện mục tiêu tiếp theo.
 
-### Sprint Backlog
+### Tồn đơn Sprint
 
-The Sprint Backlog is composed of the Sprint Goal (why), the set of Product Backlog items selected for the Sprint (what), as well as an actionable plan for delivering the Increment (how).
+Tồn đơn Sprint được cấu thành từ Mục tiêu Sprint (lý do), tập hợp các mục Tồn đơn Sản phẩm được chọn cho Sprint (cái gì), cũng như một kế hoạch có thể hành động để sinh ra Gia tăng (như thế nào).
 
-The Sprint Backlog is a plan by and for the Developers. It is a highly visible, real-time picture of the work that the Developers plan to accomplish during the Sprint in order to achieve the Sprint Goal. Consequently, the Sprint Backlog is updated throughout the Sprint as more is learned. It should have enough detail that they can inspect their progress in the Daily Scrum.
+Tồn đơn Sprint là một kế hoạch do các Nhà phát triển và dành cho các Nhà phát triển. Đó là một bức tranh rõ nét, theo thời gian thực về công việc mà các Nhà phát triển dự định hoàn thành trong Sprint để đạt được Mục tiêu Sprint. Do đó, Tồn đơn Sprint được cập nhật trong suốt Sprint khi nhiều điều hơn được sáng tỏ. Nó phải có đủ chi tiết để họ có thể kiểm tra tiến trình của mình trong Scrum Hằng ngày.
 
 #### Commitment: Sprint Goal
 
