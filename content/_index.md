@@ -247,13 +247,13 @@ Các hạng mục Tồn đơn sản phẩm có thể được Hoàn thành bởi
 
 Các nhà phát triển những người sẽ hoàn thành công việc chịu trách nhiệm về việc định cỡ. Chủ sản phẩm có thể tác động đến Nhà phát triển bằng cách giúp họ hiểu và chọn lựa giữa các đánh đổi.
 
-#### Commitment: Product Goal
+#### Cam kết: Mục tiêu Sản phẩm
 
-The Product Goal describes a future state of the product which can serve as a target for the Scrum Team to plan against. The Product Goal is in the Product Backlog. The rest of the Product Backlog emerges to define “what” will fulfill the Product Goal.
+Mục tiêu Sản phẩm miêu tả một trạng thái tương lai của sản phẩm có thể đóng vai trò là mục tiêu để Nhóm Scrum dựa vào để lập kế hoạch. Mục tiêu Sản phẩm thuộc về Tồn đơn sản phẩm. Phần còn lại của Tồn đơn sản phẩm xuất hiện để xác định “cái gì” sẽ hoàn thành Mục tiêu Sản phẩm.
 
-> _A product is a vehicle to deliver value. It has a clear boundary, known stakeholders, well-defined users or customers. A product could be a service, a physical product, or something more abstract._
+> _Một sản phẩm là một phương tiện cung cấp giá trị. Nó có một ranh giới rõ ràng, các bên liên quan và lợi ích được định danh, những người dùng hoặc khách hàng được xác định rõ. Một sản phẩm có thể là một dịch vụ, một sản phẩm hữu hình hoặc một cái gì đó trừu tượng hơn._
 
-The Product Goal is the long-term objective for the Scrum Team. They must fulfill (or abandon) one objective before taking on the next.
+Mục tiêu Sản phẩm là mục tiêu dài hạn của Nhóm Scrum. Họ phải hoàn thành (hoặc từ bỏ) một mục tiêu trước khi thực hiện mục tiêu tiếp theo.
 
 ### Sprint Backlog
 
