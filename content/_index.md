@@ -97,21 +97,21 @@ Các kỹ năng cụ thể mà Nhà phát triển cần thường rộng và s�
 - Điều chỉnh kế hoạch của họ mỗi ngày hướng tới Mục tiêu Sprint; và,
 - Giao và giữ trách nhiệm với nhau *(NV: Holding each other accountable)* như những người chuyên nghiệp.
 
-### Chủ Sản Phẩm
+### Chủ Sản phẩm
 
-Chủ Sản Phẩm có trách nhiệm tối đa hóa giá trị của sản phẩm tạo thành từ lao động của Nhóm Scrum. Cách đạt đươc điều này có thể rất khác nhau giữa các tổ chức, Nhóm Scrum và cá nhân.
+Chủ Sản phẩm có trách nhiệm tối đa hóa giá trị của sản phẩm tạo thành từ lao động của Nhóm Scrum. Cách đạt đươc điều này có thể rất khác nhau giữa các tổ chức, Nhóm Scrum và cá nhân.
 
-Chủ Sản Phẩm cũng có trách nhiệm quản lý hiệu quả Tồn Đơn Sản Phẩm, bao gồm:
+Chủ Sản phẩm cũng có trách nhiệm quản lý hiệu quả Tồn đơn Sản phẩm, bao gồm:
 - Phát triển và thông tin tường tận Mục tiêu Sản phẩm;
-- Tạo ra và thông tin rõ ràng các mục trong Tồn Đơn Sản Phẩm;
-- Đặt hàng các mục trong Tồn Đơn Sản Phẩm; và,
-- Đảm bảo rằng Tồn Đơn Sản Phẩm minh bạch, dễ thấy và hiểu được
+- Tạo ra và thông tin rõ ràng các mục trong Tồn đơn Sản phẩm;
+- Đặt hàng các mục trong Tồn đơn Sản phẩm; và,
+- Đảm bảo rằng Tồn đơn Sản phẩm minh bạch, dễ thấy và hiểu được
 
-Chủ Sản Phẩm có thể thực hiện các công việc trên hoặc có thể ủy thác cho người khác. Bất kể thế nào, Chủ Sản Phẩm vẫn chịu trách nhiệm tổng thể.
+Chủ Sản phẩm có thể thực hiện các công việc trên hoặc có thể ủy thác cho người khác. Bất kể thế nào, Chủ Sản phẩm vẫn chịu trách nhiệm tổng thể.
 
-Để Chủ Sản Phẩm thành công, toàn bộ tổ chức phải tôn trọng các quyết định của họ. Những quyết định này có thể thấy được trong nội dung và thứ tự của Tồn Đơn Sản Phẩm, và qua phần Gia tăng có thể kiểm tra được tại Sơ kết Sprint *(NV: Sprint Review)*.
+Để Chủ Sản phẩm thành công, toàn bộ tổ chức phải tôn trọng các quyết định của họ. Những quyết định này có thể thấy được trong nội dung và thứ tự của Tồn đơn Sản phẩm, và qua phần Gia tăng có thể kiểm tra được tại Sơ kết Sprint *(NV: Sprint Review)*.
 
-Chủ Sản Phẩm là một người, không phải một ủy ban. Chủ Sản Phẩm có thể đại diện cho nhu cầu của nhiều bên quan tâm và lợi ích trong Tồn Đơn Sản Phẩm. Những ai muốn thay đổi Tồn Đơn Sản Phẩm có thể làm vậy bằng cách cố gắng thuyết phục Chủ Sản Phẩm.
+Chủ Sản phẩm là một người, không phải một ủy ban. Chủ Sản phẩm có thể đại diện cho nhu cầu của nhiều bên quan tâm và lợi ích trong Tồn đơn Sản phẩm. Những ai muốn thay đổi Tồn đơn Sản phẩm có thể làm vậy bằng cách cố gắng thuyết phục Chủ Sản phẩm.
 
 ### Trưởng Scrum
 
@@ -127,9 +127,9 @@ Trưởng Scrum phục vụ Nhóm Scrum theo nhiều cách, bao gồm:
 - Khiến loại bỏ các trở ngại đến sự tiến triển của Nhóm Scrum; và,
 - Đảm bảo rằng tất cả các sự kiện Scrum diễn ra và có tính tích cực, hiệu quả và trong thời lượng
 
-Trưởng Scrum phục vụ Chủ Sản Phẩm theo nhiều cách, bao gồm:
-- Giúp tìm ra các kỹ thuật giúp định nghĩa Mục tiêu Sản Phẩm và quản lý Tồn Đơn Sản Phẩm một cách hiệu quả;
-- Giúp Nhóm Scrum hiểu được sự cần thiết của các mục Tồn Đơn Sản Phẩm rõ ràng và ngắn gọn;
+Trưởng Scrum phục vụ Chủ Sản phẩm theo nhiều cách, bao gồm:
+- Giúp tìm ra các kỹ thuật giúp định nghĩa Mục tiêu Sản phẩm và quản lý Tồn đơn Sản phẩm một cách hiệu quả;
+- Giúp Nhóm Scrum hiểu được sự cần thiết của các mục Tồn đơn Sản phẩm rõ ràng và ngắn gọn;
 - Giúp thiết lập việc lên kế hoạch sản phẩm dựa trên thực nghiệm cho một môi trường phức tạp; và,
 - Tạo điều kiện hợp tác với các bên quan tâm và lợi ích khi được yêu cầu hoặc cần thiết.
 
@@ -153,51 +153,51 @@ Sprint là nhịp tim của Scrum, nơi các ý tưởng được biến thành 
 
 Chúng là các sự kiện có độ dài cố định từ một tháng hoặc ít hơn để tạo tính nhất quán. Một Sprint mới bắt đầu ngay sau khi kết thúc Sprint trước đó.
 
-Tất cả các công việc cần thiết để đạt được Mục Tiêu Sản Phẩm, bao gồm Lập kế hoạch Sprint, Scrum Hàng ngày, Sơ kết Sprint và Tổng kết Sprint, diễn ra trong Sprint.
+Tất cả các công việc cần thiết để đạt được Mục Tiêu Sản phẩm, bao gồm Lập kế hoạch Sprint, Scrum Hàng ngày, Sơ kết Sprint và Tổng kết Sprint, diễn ra trong Sprint.
 
 Trong một Sprint:
 - Không thực hiện những thay đổi có thể gây nguy hiểm cho Mục tiêu Sprint;
 - Chất lượng không giảm;
-- Tồn Đơn Sản Phẩm được tinh lọc khi cần thiết; và,
+- Tồn đơn Sản phẩm được tinh lọc khi cần thiết; và,
 - Phạm vi có thể được làm rõ và thương lượng lại với Chủ sản phẩm khi đã hiểu thêm.
 
 Sprint tạo khả năng dự đoán bằng cách đảm bảo việc kiểm tra và điều chỉnh tiến độ hướng đến Mục tiêu sản phẩm ít nhất một lần mỗi tháng. Khi lộ trình của Sprint quá dài, Mục tiêu Sprint có thể trở nên không hợp lệ, tính phức tạp có thể tăng lên và rủi ro có thể nhiều hơn. Các Sprint ngắn hơn có thể được sử dụng để tạo ra nhiều chu kỳ học tập hơn và hạn chế rủi ro về chi phí và nỗ lực trong một khung thời gian nhỏ hơn. Mỗi Sprint có thể coi là một dự án ngắn.
 
 Có nhiều phương pháp khác nhau để dự báo tiến độ, chẳng hạn như cháy-giảm, cháy-tăng hoặc dòng lũy kế *(NV: burn-downs, burn-ups, or cumulative flows)*. Mặc dù đã được chứng minh là hữu ích, những cách này không thay thế tầm quan trọng của chủ nghĩa kinh nghiệm. Trong những môi trường phức tạp, chuyện gì sẽ xảy ra là điều không biết. Chỉ những gì đã xảy ra mới có thể được sử dụng cho các quyết định hướng về phía trước.
 
-Một Sprint có thể bị hủy bỏ nếu Mục tiêu Sprint trở nên lỗi thời. Chỉ Chủ Sản Phẩm mới có quyền hủy Sprint.
+Một Sprint có thể bị hủy bỏ nếu Mục tiêu Sprint trở nên lỗi thời. Chỉ Chủ Sản phẩm mới có quyền hủy Sprint.
 
 ### Lập Kế Hoạch Sprint
 
-Sự kiện Lập kế hoạch Sprint bắt đầu Sprint bằng cách đặt ra các công việc cần thực hiện cho Sprint. Kế hoạch có được này được tạo ra bởi việc cộng tác của toàn bộ Nhóm Scrum.
+Sự kiện Lập kế hoạch Sprint bắt đầu Sprint bằng cách sắp đặt ra các công việc cần thực hiện cho Sprint. Kế hoạch có được này được tạo ra bởi việc cộng tác của toàn bộ Nhóm Scrum.
 
-Chủ Sản Phẩm đảm bảo rằng những người tham dự được chuẩn bị để thảo luận về các mục quan trọng nhất trong Tồn Đơn Sản Phẩm và cách chúng dẫn đến Mục tiêu Sản phẩm. Nhóm Scrum cũng có thể mời những người khác tham gia sự kiện Lập kế hoạch Sprint để đưa ra lời khuyên.
+Chủ Sản phẩm đảm bảo rằng những người tham dự được chuẩn bị để thảo luận về các mục quan trọng nhất trong Tồn đơn Sản phẩm và cách chúng dẫn đến Mục tiêu Sản phẩm. Nhóm Scrum cũng có thể mời những người khác tham gia sự kiện Lập kế hoạch Sprint để đưa ra lời khuyên.
 
 Lập kế hoạch Sprint giải quyết các chủ đề sau:
 
 #### Chủ đề Một: Tại sao Sprint này có giá trị?
 
-Chủ Sản Phẩm đề xuất cách sản phẩm có thể tăng giá trị và tiện ích của nó trong Sprint hiện tại. Sau đó, toàn bộ Nhóm Scrum sẽ hợp tác để định rõ một Mục tiêu Sprint nhằm truyền đạt lý do tại sao Sprint lại có giá trị đối với các bên quan tâm và lợi ích. Mục tiêu Sprint phải được hoàn thành trước khi kết thúc Lập kế hoạch Sprint.
+Chủ Sản phẩm đề xuất cách sản phẩm có thể tăng giá trị và tiện ích của nó trong Sprint hiện tại. Sau đó, toàn bộ Nhóm Scrum sẽ hợp tác để định rõ một Mục tiêu Sprint nhằm truyền đạt lý do tại sao Sprint lại có giá trị đối với các bên quan tâm và lợi ích. Mục tiêu Sprint phải được hoàn thành trước khi kết thúc Lập kế hoạch Sprint.
 
 #### Chủ đề Hai: Điều gì có thể hoàn thành trong Sprint này?
 
-Qua thảo luận với Chủ Sản Phẩm, các Nhà phát triển chọn các mục từ Tồn Đơn Sản Phẩm *(NV: Product Backlog)* để đưa vào Sprint hiện tại. Nhóm Scrum có thể tinh chỉnh các mục trong quá trình này, điều này tăng thêm sự hiểu biết và tự tin.
+Qua thảo luận với Chủ Sản phẩm, các Nhà phát triển chọn các mục từ Tồn đơn Sản phẩm để đưa vào Sprint hiện tại. Nhóm Scrum có thể tinh lọc các mục trong quá trình này, điều này tăng thêm sự hiểu biết và tự tin.
 
-Việc lựa chọn số lượng có thể hoàn thành trong một Sprint có thể là một thách thức. Tuy nhiên, khi các Nhà phát triển càng biết nhiều về quá trình thực hiện *(NV: past performance)* của họ trong quá khứ, năng lực sắp tới và Định nghĩa Hoàn thành của họ, thì họ càng tự tin vào các dự báo Sprint của mình.
+Việc lựa chọn số lượng có thể hoàn thành trong một Sprint có thể là một thách thức. Tuy nhiên, khi các Nhà phát triển càng biết nhiều về năng lực thực hiện của họ trong quá khứ, khả năng sắp tới và Định nghĩa Hoàn thành của họ, thì họ càng tự tin vào các dự báo Sprint của mình.
 
 #### Chủ đề Ba: Công việc đã chọn sẽ được hoàn thành như thế nào?
 
-Đối với mỗi mục trong Tồn Đơn Sản Phẩm đã chọn, Nhà phát triển lập kế hoạch công việc cần thiết để tạo một Gia tăng đáp ứng Định nghĩa Hoàn thành. Điều này thường được thực hiện bằng cách chia nhỏ các mục trong Tồn Đơn Sản Phẩm thành các mục công việc nhỏ hơn của một ngày hoặc ít hơn. Cách thực hiện như thế nào do các Nhà phát triển tùy ý quyết định. Không ai khác chỉ cho họ cách biến các mục mục trong Tồn Đơn Sản Phẩm thành các Gia tăng giá trị.
+Đối với mỗi mục trong Tồn đơn Sản phẩm đã chọn, Nhà phát triển lập kế hoạch công việc cần thiết để tạo một Gia tăng đáp ứng Định nghĩa Hoàn thành. Điều này thường được thực hiện bằng cách chia nhỏ các mục trong Tồn đơn Sản phẩm thành các mục công việc nhỏ hơn của một ngày hoặc ít hơn. Cách thực hiện như thế nào do các Nhà phát triển tùy ý quyết định. Không ai khác chỉ cho họ cách biến các mục trong Tồn đơn Sản phẩm thành các Gia tăng giá trị.
 
-Mục tiêu Sprint, các mục trong Tồn Đơn Sản Phẩm được chọn cho Sprint, cộng với kế hoạch thực hiện chúng được gọi chung là Tồn Đơn Sprint *(NV: Sprint Backlog)*.
+Mục tiêu Sprint, các mục trong Tồn đơn Sản phẩm được chọn cho Sprint, cộng với kế hoạch thực hiện chúng được gọi chung là Tồn đơn Sprint
 
 Việc Lập kế hoạch Sprint có giới hạn thời gian tối đa là tám giờ cho một Sprint một-tháng. Với những Sprint ngắn hơn, sự kiện này thường ngắn hơn.
 
-### Scrum Hàng ngày *(NV: Daily Scrums)*
+### Scrum Hàng ngày
 
-Mục đích của Scrum Hàng ngày là kiểm tra tiến độ hướng tới Mục tiêu Sprint và chỉnh sửa Tồn Đơn Sprint *(NV: Sprint Backlog)* khi cần thiết, điều chỉnh công việc đã lên kế hoạch sắp tới.
+Mục đích của Scrum Hàng ngày là kiểm tra tiến độ hướng tới Mục tiêu Sprint và chỉnh sửa Tồn đơn Sprint *(NV: Sprint Backlog)* khi cần thiết, điều chỉnh công việc đã lên kế hoạch sắp tới.
 
-Scrum Hàng ngày là một sự kiện dài 15 phút dành cho các Nhà phát triển của Nhóm Scrum. Để giảm phức tạp, nó được tổ chức vào cùng giờ và địa điểm mỗi ngày làm việc trong Sprint. Nếu Chủ Sản Phẩm hoặc Trưởng Scrum đang tích cực làm việc trên các mục trong Tồn Đơn Sprint, họ tham gia với tư cách là Nhà phát triển.
+Scrum Hàng ngày là một sự kiện dài 15 phút dành cho các Nhà phát triển của Nhóm Scrum. Để giảm phức tạp, nó được tổ chức vào cùng giờ và địa điểm mỗi ngày làm việc trong Sprint. Nếu Chủ Sản phẩm hoặc Trưởng Scrum đang tích cực làm việc trên các mục trong Tồn đơn Sprint, họ tham gia với tư cách là Nhà phát triển.
 
 Các Nhà phát triển có thể chọn bất kỳ cấu trúc và kỹ thuật nào họ muốn, miễn là Scrum Hàng ngày của họ tập trung vào tiến độ hướng tới Mục tiêu Sprint và đưa ra một kế hoạch khả thi cho ngày làm việc tiếp theo. Điều này tạo ra sự tập trung và cải thiện sự tự quản lý.
 
