@@ -195,7 +195,7 @@ Việc Lập kế hoạch Sprint có giới hạn thời gian tối đa là tám
 
 ### Scrum Hàng ngày
 
-Mục đích của Scrum Hàng ngày là kiểm tra tiến độ hướng tới Mục tiêu Sprint và chỉnh sửa Tồn đơn Sprint *(NV: Sprint Backlog)* khi cần thiết, điều chỉnh công việc đã lên kế hoạch sắp tới.
+Mục đích của Scrum Hàng ngày là kiểm tra tiến độ hướng tới Mục tiêu Sprint và chỉnh sửa Tồn đơn Sprint nếu cần thiết, điều chỉnh công việc đã lên kế hoạch sắp tới.
 
 Scrum Hàng ngày là một sự kiện dài 15 phút dành cho các Nhà phát triển của Nhóm Scrum. Để giảm phức tạp, nó được tổ chức vào cùng giờ và địa điểm mỗi ngày làm việc trong Sprint. Nếu Chủ Sản phẩm hoặc Trưởng Scrum đang tích cực làm việc trên các mục trong Tồn đơn Sprint, họ tham gia với tư cách là Nhà phát triển.
 
@@ -203,7 +203,7 @@ Các Nhà phát triển có thể chọn bất kỳ cấu trúc và kỹ thuật
 
 Scrums Hàng ngày cải thiện sự liên lạc, xác định các trở ngại, thúc đẩy việc quyết định nhanh chóng và do đó loại bỏ nhu cầu cho các cuộc họp khác.
 
-Scrum Hàng ngày không phải là lần duy nhất các Nhà phát triển được phép điều chỉnh kế hoạch của họ. Họ thường gặp nhau suốt trong ngày để thảo luận chi tiết hơn về việc điều chỉnh hoặc lập lại kế hoạch cho phần còn lại của công việc Sprint.
+Scrum Hàng ngày không phải là lần duy nhất các Nhà phát triển được phép điều chỉnh kế hoạch của họ. Họ thường gặp nhau trong ngày để thảo luận chi tiết hơn về việc điều chỉnh hoặc lập lại kế hoạch cho phần còn lại của công việc Sprint.
 
 ### Sơ kết Sprint *(NV: Sprint Review)*
 
