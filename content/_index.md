@@ -77,63 +77,61 @@ Những giá trị này chỉ hướng cho Nhóm Scrum về công việc, hành 
 Nhóm Scrum
 ----------
 
-Đơn vị cơ bản của Scrum là một nhóm nhỏ, gọi là Nhóm Scrum. Nhóm Scrum bao gồm một Trưởng Scrum *(NV: Scrum Master)*, một Chủ sản phẩm *(NV: Product Owner)* và các Nhà phát triển. Trong một Nhóm Scrum, không có nhóm con hoặc hệ thống phân cấp. Nó là một đơn vị gắn kết của các chuyên gia tập trung vào một mục tiêu tại một thời điểm, Mục tiêu Sản phẩm.
+Đơn vị cơ bản của Scrum là một nhóm nhỏ các cá nhân, gọi là Nhóm Scrum. Nhóm Scrum bao gồm một Trưởng Scrum, một Chủ sản phẩm và các Nhà phát triển. Trong một Nhóm Scrum, không có nhóm con hoặc hệ thống phân cấp. Nó là một đơn vị gắn kết của các chuyên gia tập trung vào một mục tiêu tại mỗi thời điểm, Mục tiêu Sản phẩm.
 
 Các Nhóm Scrum có tính chức năng chéo, nghĩa là các thành viên có tất cả các kỹ năng cần thiết để tạo ra giá trị mỗi Sprint. Họ cũng tự quản lý, có nghĩa là họ quyết định nội bộ ai làm gì, khi nào và như thế nào.
 
-Nhóm Scrum đủ nhỏ để duy trì sự nhanh nhẹn và đủ lớn để hoàn thành công việc có ý nghĩa trong Sprint, tiêu biểu là 10 người hoặc ít hơn. Nhìn chung, chúng tôi nhận thấy rằng các nhóm nhỏ hơn giao tiếp tốt hơn và làm việc năng suất hơn. Nếu các Nhóm Scrum trở nên quá lớn, họ nên cân nhắc tổ chức lại thành nhiều Nhóm Scrum gắn kết, mỗi nhóm tập trung vào cùng một sản phẩm. Do đó, họ nên chia sẻ cùng một Mục tiêu Sản phẩm, Tồn đơn sản phẩm và Chủ sản phẩm *(NV: Product Goal, Product Backlog, and Product Owner)*
+Nhóm Scrum đủ nhỏ để duy trì sự nhanh nhẹn và đủ lớn để hoàn thành công việc có ý nghĩa trong Sprint, tiêu biểu là 10 người hoặc ít hơn. Nhìn chung, chúng tôi nhận thấy rằng các nhóm nhỏ hơn giao tiếp tốt hơn và làm việc năng suất hơn. Nếu các Nhóm Scrum trở nên quá lớn, họ nên cân nhắc tổ chức lại thành nhiều Nhóm Scrum gắn kết, mỗi nhóm tập trung vào cùng một sản phẩm. Do đó, họ nên chia sẻ cùng một Mục tiêu Sản phẩm, Tồn đơn sản phẩm và Chủ sản phẩm.
 
 Nhóm Scrum chịu trách nhiệm về tất cả các hoạt động liên quan đến sản phẩm từ sự hợp tác với các bên liên quan, kiểm tra, bảo trì, vận hành, thử nghiệm, nghiên cứu và phát triển và bất kỳ hoạt động nào khác có thể được yêu cầu. Họ được cấu trúc và trao quyền bởi tổ chức để quản lý công việc của chính họ. Làm việc trong các Sprint với một nhịp độ bền vững cải thiện sự tập trung và tính ổn định của Nhóm Scrum.
 
-Toàn bộ Nhóm Scrum có trách nhiệm tạo ra Gia tăng *(NV: Increment)* giá trị và hữu ích mỗi Sprint. Scrum định rõ 3 hình thái trách nhiệm *(NV: accountability)* cụ thể trong Nhóm Scrum: Nhà phát triển, Chủ sản phẩm và Trưởng Scrum *(NV: the Developers, the Product Owner, and the Scrum Master).
+Toàn bộ Nhóm Scrum có trách nhiệm tạo ra Gia tăng có giá trị và hữu ích mỗi Sprint. Scrum định rõ 3 trách nhiệm cụ thể trong Nhóm Scrum: Nhà phát triển, Chủ sản phẩm và Trưởng Scrum.
 
 ### Nhà Phát Triển
 
 Các nhà phát triển là những người trong Nhóm Scrum cống hiến vào việc tạo ra một phương diện nào đó của Gia tăng sử dụng được mỗi Sprint.
 
-Các kỹ năng cụ thể mà Nhà phát triển cần có thường rộng và sẽ thay đổi theo lĩnh vực công việc. Tuy nhiên, các Nhà phát triển luôn chịu trách nhiệm về:
+Các kỹ năng cụ thể mà Nhà phát triển cần thường rộng và sẽ thay đổi theo lĩnh vực công việc. Tuy nhiên, các Nhà phát triển luôn chịu trách nhiệm về:
 - Lập kế hoạch cho Sprint, gọi là Tồn đơn Sprint *(NV: Sprint Backlog)*;
 - Gây dựng chất lượng bằng việc tuân thủ Định nghĩa Hoàn thành *(NV: Definition of Done)*;
 - Điều chỉnh kế hoạch của họ mỗi ngày hướng tới Mục tiêu Sprint; và,
 - Giao và giữ trách nhiệm với nhau *(NV: Holding each other accountable)* như những người chuyên nghiệp.
 
-
 ### Chủ Sản Phẩm
 
-Chủ Sản Phẩm *(NV: Product Owner)* có trách nhiệm tối đa hóa giá trị của sản phẩm tạo thành từ lao động của Nhóm Scrum. Cách thực hiện điều này có thể rất khác nhau giữa các tổ chức, Nhóm Scrum và cá nhân.
+Chủ Sản Phẩm có trách nhiệm tối đa hóa giá trị của sản phẩm tạo thành từ lao động của Nhóm Scrum. Cách đạt đươc điều này có thể rất khác nhau giữa các tổ chức, Nhóm Scrum và cá nhân.
 
-Chủ Sản Phẩm cũng có trách nhiệm quản lý hiệu quả Tồn Đơn Sản Phẩm *(NV: Product Backlog)* hiệu quả, bao gồm:
-- Phát triển và thông tin minh bạch Mục tiêu Sản phẩm;
+Chủ Sản Phẩm cũng có trách nhiệm quản lý hiệu quả Tồn Đơn Sản Phẩm, bao gồm:
+- Phát triển và thông tin tường tận Mục tiêu Sản phẩm;
 - Tạo ra và thông tin rõ ràng các mục trong Tồn Đơn Sản Phẩm;
 - Đặt hàng các mục trong Tồn Đơn Sản Phẩm; và,
-- Đảm bảo rằng Tồn Đơn Sản Phẩm minh bạch, có thể nhìn thấy và hiểu được
+- Đảm bảo rằng Tồn Đơn Sản Phẩm minh bạch, dễ thấy và hiểu được
 
-Chủ Sản Phẩm có thể thực hiện các công việc trên hoặc có thể ủy thác cho người khác. Bất kể thế nào, Chủ Sản Phẩm vẫn chịu trách nhiệm tổng.
+Chủ Sản Phẩm có thể thực hiện các công việc trên hoặc có thể ủy thác cho người khác. Bất kể thế nào, Chủ Sản Phẩm vẫn chịu trách nhiệm tổng thể.
 
 Để Chủ Sản Phẩm thành công, toàn bộ tổ chức phải tôn trọng các quyết định của họ. Những quyết định này có thể thấy được trong nội dung và thứ tự của Tồn Đơn Sản Phẩm, và qua phần Gia tăng có thể kiểm tra được tại Sơ kết Sprint *(NV: Sprint Review)*.
 
-Chủ Sản Phẩm là một người, không phải một ủy ban. Chủ Sản Phẩm có thể đại diện cho nhu cầu của nhiều bên quan tâm và lợi ích *(NV: stakeholders)* trong Tồn Đơn Sản Phẩm. Những ai muốn thay đổi Tồn Đơn Sản Phẩm có thể làm vậy bằng cách cố gắng thuyết phục Chủ Sản Phẩm.
+Chủ Sản Phẩm là một người, không phải một ủy ban. Chủ Sản Phẩm có thể đại diện cho nhu cầu của nhiều bên quan tâm và lợi ích trong Tồn Đơn Sản Phẩm. Những ai muốn thay đổi Tồn Đơn Sản Phẩm có thể làm vậy bằng cách cố gắng thuyết phục Chủ Sản Phẩm.
 
 ### Trưởng Scrum
 
-Trưởng Scrum *(NV: Scrum Master)* có trách nhiệm xây dựng Scrum theo định nghĩa trong Hướng dẫn Scrum. Họ làm điều này bằng cách giúp mọi người hiểu lý thuyết và thực hành Scrum, cả bên trong Nhóm Scrum và tổ chức.
+Trưởng Scrum có trách nhiệm xây dựng Scrum theo định nghĩa trong Hướng dẫn Scrum. Họ làm điều này bằng cách giúp mọi người hiểu lý thuyết và thực hành Scrum, cả bên trong Nhóm Scrum và tổ chức.
 
 Trưởng Scrum chịu trách nhiệm về hiệu quả của Nhóm Scrum. Họ thực hiện điều này bằng cách giúp Nhóm Scrum cải thiện các thực hành của mình, trong khuôn khổ Scrum.
 
-Trưởng Scrum là những nhà lãnh đạo thực sự phục vụ cho Nhóm Scrum và tổ chức lớn hơn.
+Trưởng Scrum là những nhà lãnh đạo thực sự, phục vụ Nhóm Scrum và tổ chức lớn.
 
 Trưởng Scrum phục vụ Nhóm Scrum theo nhiều cách, bao gồm:
 - Huấn luyện các thành viên trong nhóm về việc tự quản lý và chức năng chéo;
-- Giúp Nhóm Scrum tập trung vào việc tạo ra các Gia tăng có giá trị cao đáp ứng Định nghĩa Hoàn thành *(NV: Definition of Done)*;
-- Khiến loại bỏ các trở ngại đối với sự tiến triển của Nhóm Scrum; và,
+- Giúp Nhóm Scrum tập trung vào việc tạo ra các Gia tăng có giá trị cao đáp ứng Định nghĩa Hoàn thành;
+- Khiến loại bỏ các trở ngại đến sự tiến triển của Nhóm Scrum; và,
 - Đảm bảo rằng tất cả các sự kiện Scrum diễn ra và có tính tích cực, hiệu quả và trong thời lượng
 
 Trưởng Scrum phục vụ Chủ Sản Phẩm theo nhiều cách, bao gồm:
-- Giúp tìm ra các kỹ thuật để xác định Mục tiêu Sản Phẩm hiệu quả và quản lý Tồn Đơn Sản Phẩm;
+- Giúp tìm ra các kỹ thuật giúp định nghĩa Mục tiêu Sản Phẩm và quản lý Tồn Đơn Sản Phẩm một cách hiệu quả;
 - Giúp Nhóm Scrum hiểu được sự cần thiết của các mục Tồn Đơn Sản Phẩm rõ ràng và ngắn gọn;
 - Giúp thiết lập việc lên kế hoạch sản phẩm dựa trên thực nghiệm cho một môi trường phức tạp; và,
 - Tạo điều kiện hợp tác với các bên quan tâm và lợi ích khi được yêu cầu hoặc cần thiết.
-
 
 Scrum Master phục vụ tổ chức theo nhiều cách, bao gồm:
 - Lãnh đạo, đào tạo và huấn luyện tổ chức trong việc áp dụng Scrum;
@@ -275,7 +273,7 @@ Nhiều Gia tăng có thể được tạo ra trong một Sprint. Tổng các Gi
 
 Công việc không thể được coi là một phần của Gia tăng trừ khi nó đáp ứng Định nghĩa Hoàn thành.
 
-#### Commitment: Definition of Done
+#### Cam kết: Định Nghĩa Hoàn Thành
 
 Định nghĩa Hoàn thành là một mô tả chính thức về trạng thái của Gia tăng khi nó đáp ứng các biện pháp chất lượng cần thiết cho sản phẩm.
 
@@ -327,7 +325,14 @@ Ghi Chú Của Người dịch
 - Inspection: Việc kiểm tra
 - Adaptation: Việc thích ứng, thay đổi cho phù hợp
 - Artifact: tạo phẩm
+- Product Goal: Mục tiêu Sản phẩm
+- Sprint Backlog: Tồn đơn Sprint
+- Definition of Done: Định nghĩa Hoàn thành
+- Sprint Goal: Mục tiêu Sprint
+- Sprint Review: Sơ kết Sprint
 
 ### Giải thích
 
 1. Trong điền kinh, Sprint có thể dịch thành Cuộc chạy nước rút, thường diễn ra trong các chặng đua ngắn hoặc khi gần đến đích. Sprint trong Scrum diễn ra bất kể chiều dài dự án, diễn ra liên tục, khi một Sprint kết thúc, một cái mới ngay lập tức bắt đầu. Do đó, cộng với hiểu biết và kinh nghiệm bản thân, người dịch cảm thấy bản chất của Sprint trong Scrum không _hoàn toàn_ giống ý nghĩa của nó trong điền kinh. Vì vậy người dịch quyết định giữ nguyên chữ Sprint, không dịch ra tiếng Việt
+
+2. Commitment thường có nghĩa là Cam kết, nhưng trong nhiều hoàn cảnh có thể hiểu là cống hiến, tận tâm.
