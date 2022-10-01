@@ -287,10 +287,11 @@ Nếu Định nghĩa Hoàn thành cho một Gia tăng là một phần trong cá
 
 Các nhà phát triển bắt buộc phải làm theo Định nghĩa Hoàn thành. Nếu có nhiều Nhóm Scrum làm việc cùng nhâu trên một sản phẩm, họ phải cùng nhau xác định và tuân theo chung một Định nghĩa Hoàn thành.
 
-End Note
+ Lời cuối
 --------
 
-Scrum is free and offered in this Guide. The Scrum framework, as outlined herein, is immutable. While implementing only parts of Scrum is possible, the result is not Scrum. Scrum exists only in its entirety and functions well as a container for other techniques, methodologies, and practices.
+Scrum miễn phí và được cung cấp trong Hướng dẫn này. Khuôn khổ Scrum, như được phác họa ở đây, là bất biến. Dù rằng triển khai chỉ vài phần của Scrum là có thể, kết quả đạt được không phải là Scrum. Scrum tồn tại chỉ trong trạng thái nguyên và hoạt động tốt như một nơi chứa các kỹ thuật, phương pháp và thực hành khác.
+
 
 ### Acknowledgements
 
