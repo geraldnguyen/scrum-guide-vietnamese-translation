@@ -19,19 +19,19 @@ Khi Scrum đang được dùng, các mẫu, quy trình và những hiểu biết
 Định nghĩa Scrum
 ----------------
 
-Scrum là một khuôn khổ nhẹ giúp mọi người, nhóm và tổ chức tạo ra giá trị thông qua các giải pháp thích ứng cho các vấn đề phức tạp.
+Scrum là một khuôn khổ nhẹ giúp các cá nhân, nhóm và tổ chức tạo ra giá trị thông qua các giải pháp thích ứng cho các vấn đề phức tạp.
 
-Tóm gọn, Scrum cần một Trưởng Scrum *(NV: Scrum Master)* để thúc đẩy một môi trường mà:
+Tóm gọn, Scrum cần một Trưởng Scrum *(NV: Scrum Master)* để nuôi dưỡng một môi trường mà:
 
-1. Một Chủ Sản phẩm *(NV: Product Owner)* đặt hàng công việc cho một vấn đề phức tạp vào Tồn đơn của Sản phẩm *(NV: Product Backlog)*.
+1. Một Chủ Sản phẩm *(NV: Product Owner)* đặt hàng công việc cho một vấn đề phức tạp vào trong Tồn đơn Sản phẩm *(NV: Product Backlog)*.
 
-2. Nhóm Scrum biến một lựa chọn công việc thành một Gia tăng giá trị trong một Sprint *(Người dịch: Sự chạy nước rút)*.
+2. Nhóm Scrum biến một lựa chọn công việc thành một Gia tăng giá trị *(NV: Increment of value)* trong một Sprint.
     
 3. Nhóm Scrum và các bên quan tâm và lợi ích *(NV: stakeholders)* kiểm tra kết quả và điều chỉnh cho Sprint tiếp theo.
     
 4. _Lặp lại_
 
-Scrum giản đơn. Hãy thử y vậy và xác định xem triết lý, lý thuyết và cấu trúc của nó có giúp đạt được mục tiêu và tạo ra giá trị hay không. Khuôn khổ Scrum được chủ đích không hoàn chỉnh, chỉ xác định các phần cần thiết để triển khai lý thuyết Scrum. Scrum được xây dựng dựa trên trí tuệ tập thể của những người sử dụng nó. Thay vì cung cấp cho mọi người những hướng dẫn chi tiết, các quy tắc của Scrum hướng dẫn các mối quan hệ và tương tác của họ.
+Scrum đơn giản. Hãy thử y vậy và xác định xem triết lý, lý thuyết và cấu trúc của nó có giúp đạt được mục tiêu và tạo ra giá trị hay không. Khuôn khổ Scrum được chủ đích không hoàn chỉnh, chỉ định nghĩa các phần cần thiết để triển khai lý thuyết Scrum. Scrum được xây dựng trên trí tuệ tập thể của những người sử dụng nó. Thay vì cung cấp cho mọi người những hướng dẫn chi tiết, các quy tắc của Scrum hướng dẫn các mối quan hệ và tương tác của họ.
 
 Các quy trình, kỹ thuật và phương pháp khác nhau có thể được sử dụng trong khuôn khổ. Scrum bao quanh các thực hành hiện có, hoặc làm cho chúng không cần thiết. Scrum làm hiện hình hiệu quả tương đối của các kỹ thuật quản lý, môi trường và công việc hiện tại, để các cải tiến có thể được tạo ra.
 
@@ -308,3 +308,18 @@ Hướng dẫn Scrum ghi lại quá trình Scrum phát triển, tiến hóa và 
 Lịch sử hoàn chỉnh của Scrum được mô tả ở những nơi khác. Để tôn vinh những nơi đầu tiên mà nó đã được thử nghiệm và chứng minh, chúng tôi ghi nhận Individual Inc., Newspaperage, Fidelity Investments và IDX (nay là GE Medical).
 
 _© 2020 Ken Schwaber và Jeff Sutherland Ấn phẩm này được cung cấp giấy phép theo giấy phép Attribution Share-Alike của Creative Commons, có thể truy cập tại [https://creativecommons.org/licenses/by-sa/4.0/legalcode](https://creativecommons.org/licenses/by-sa/4.0/legalcode) và cũng được mô tả dưới dạng tóm tắt tại [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/). Bằng việc sử dụng Hướng dẫn Scrum này, bạn xác nhận và đồng ý rằng bạn đã đọc và đồng ý bị ràng buộc bởi các điều khoản của giấy phép Attribution Share-Alike của Creative Commons._
+
+
+### Ghi Chú Của Người dịch
+
+#### Thuật Ngữ
+- Scrum Master: Trưởng Scrum
+- Product Owner: Chủ Sản phẩm
+- Product Backlog: Tồn đơn Sản phẩm
+- Increment: Gia tăng
+- Sprint: Sprint. Xem giải thích 1.
+- Stakeholders: các bên quan tâm và lợi ích
+
+#### Giải thích
+
+1. Trong điền kinh, Sprint có thể dịch thành Cuộc chạy nước rút, thường diễn ra trong các chặng đua ngắn hoặc khi gần đến đích. Sprint trong Scrum diễn ra bất kể chiều dài dự án, diễn ra liên tục, khi một Sprint kết thúc, một cái mới ngay lập tức bắt đầu. Do đó, cộng với hiểu biết và kinh nghiệm bản thân, người dịch cảm thấy bản chất của Sprint trong Scrum không _hoàn toàn_ giống ý nghĩa của nó trong điền kinh. Vì vậy người dịch quyết định giữ nguyên chữ Sprint, không dịch ra tiếng Việt
