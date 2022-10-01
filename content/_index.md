@@ -38,15 +38,15 @@ Các quy trình, kỹ thuật và phương pháp khác nhau có thể được s
 Lý Thuyết Scrum
 ------------
 
-Scrum được xây dựng trên chủ nghĩa kinh nghiệm và tư duy tinh gọn. Chủ nghĩa kinh nghiệm khẳng định rằng kiến ​​thức đến từ kinh nghiệm và đưa ra quyết định dựa trên những gì quan sát được. Tư duy tinh gọn giảm lãng phí và tập trung vào những điều cần thiết.
+Scrum được xây dựng trên chủ nghĩa kinh nghiệm và tư duy tinh gọn. Chủ nghĩa kinh nghiệm khẳng định rằng kiến ​​thức đến từ kinh nghiệm và việc ra quyết định phải dựa trên những gì quan sát được. Tư duy tinh gọn giảm lãng phí và tập trung vào những điều cần thiết.
 
-Scrum sử dụng cách tiếp cận lặp lại, gia tăng *(NV: iterative, incremental)* để tối ưu hóa khả năng dự đoán và để kiểm soát rủi ro. Scrum tuyển dụng các nhóm người khi tập hợp lại có đủ tất cả các kỹ năng và chuyên môn để thực hiện công việc và chia sẻ hoặc có được những kỹ năng đó khi cần.
+Scrum sử dụng cách tiếp cận lặp lại, gia tăng để tối ưu hóa khả năng dự đoán và để kiểm soát rủi ro. Scrum tuyển dụng các nhóm người mà khi tập hợp lại có đủ tất cả các kỹ năng và chuyên môn để thực hiện công việc và chia sẻ hoặc có được những kỹ năng đó khi cần.
 
-Scrum kết hợp bốn sự kiện chính thức cho việc kiểm tra và tùy chỉnh trong một sự kiện bao trùm, Sprint. Những sự kiện này đem đến kết quả vì chúng hiện thực hóa các trụ cột minh bạch, kiểm tra và thích ứng của chủ nghĩa kinh nghiệm trong Scrum
+Scrum kết hợp bốn sự kiện chính thức cho việc kiểm tra và tùy chỉnh bên trong một sự kiện bao trùm, Sprint. Những sự kiện này đem đến kết quả vì chúng hiện thực hóa các trụ cột minh bạch, kiểm tra và thích ứng của chủ nghĩa kinh nghiệm trong Scrum
 
 ### Minh Bạch
 
-Quá trình và công việc sắp làm phải trở nên rõ ràng với những người thực hiện công việc cũng như những người tiếp nhận công việc. Với Scrum, các quyết định quan trọng được dựa trên trạng thái nhận thức của ba tạo phẩm chính thức. Các tạo phẩm có tính minh bạch thấp có thể dẫn đến các quyết định làm giảm giá trị và tăng rủi ro.
+Quá trình và công việc sắp làm phải rõ ràng với những người thực hiện công việc cũng như những người tiếp nhận công việc. Với Scrum, các quyết định quan trọng được dựa trên trạng thái nhận thức của ba tạo phẩm chính thức. Các tạo phẩm có tính minh bạch thấp có thể dẫn đến các quyết định làm giảm giá trị và tăng rủi ro.
 
 Tính minh bạch cho phép kiểm tra. Kiểm tra mà không minh bạch gây hiểu lầm và lãng phí.
 
@@ -54,13 +54,13 @@ Tính minh bạch cho phép kiểm tra. Kiểm tra mà không minh bạch gây h
 
 Các tạo phẩm của Scrum và tiến trình tới các mục tiêu đã thống nhất phải được kiểm tra thường xuyên và siêng năng để phát hiện các thay đổi không mong muốn hoặc các trục trặc có thể xảy ra. Để giúp cho việc kiểm tra, Scrum tạo ra nhịp điệu dưới dạng năm sự kiện.
 
-Việc kiểm tra cho phép thích ứng. Kiểm tra mà không ứng đổi được coi là vô nghĩa. Các sự kiện Scrum được thiết kế để kích thích sự thay đổi.
+Việc kiểm tra cho phép thích ứng. Kiểm tra mà không thích ứng được coi là vô nghĩa. Các sự kiện Scrum được thiết kế để kích thích sự thay đổi.
 
 ### Thích Ứng
 
-Nếu bất kỳ khía cạnh của quá trình lệch ra ngoài giới hạn cho phép hoặc nếu sản phẩm thu được không thể chấp nhận được, thì quá trình đang được áp dụng hoặc nguyên liệu đang được sản xuất phải được điều chỉnh. Việc điều chỉnh phải được thực hiện càng sớm càng tốt để giảm thiểu sai lệch hơn nữa.
+Nếu bất kỳ khía cạnh của quá trình lệch ra ngoài giới hạn cho phép hoặc nếu sản phẩm thu được không thể chấp nhận được, thì quá trình đang được áp dụng hoặc vật liệu đang được sản xuất phải được điều chỉnh. Việc điều chỉnh phải được thực hiện càng sớm càng tốt để giảm thiểu sai lệch hơn nữa.
 
-Việc thích ứng trở nên khó khăn hơn khi những người liên quan không được trao quyền hoặc không tự quản lý. Nhóm Scrum được yêu cầu ứng đổi ngay khi học được bất cứ điều gì mới thông qua việc kiểm tra.
+Việc thích ứng trở nên khó khăn hơn khi những người tham gia không được trao quyền hoặc không tự quản lý. Nhóm Scrum được yêu cầu ứng đổi ngay khi nhóm học được bất cứ điều gì mới thông qua việc kiểm tra.
 
 
 Các Giá Trị trong Scrum
@@ -319,6 +319,12 @@ _© 2020 Ken Schwaber và Jeff Sutherland Ấn phẩm này được cung cấp g
 - Increment: Gia tăng
 - Sprint: Sprint. Xem giải thích 1.
 - Stakeholders: các bên quan tâm và lợi ích
+- Empiricism: chủ nghĩa kinh nghiệm
+- Lean Thinking: tư duy tinh gọn
+- Transparency: tính minh bạch
+- Inspection: Việc kiểm tra
+- Adaptation: Việc thích ứng, thay đổi cho phù hợp
+- Artifact: tạo phẩm
 
 #### Giải thích
 
