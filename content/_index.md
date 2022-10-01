@@ -143,7 +143,7 @@ Scrum Master phục vụ tổ chức theo nhiều cách, bao gồm:
 Các Sự Kiện Scrum
 ------------
 
-Sprint là nơi chứa tất cả các sự kiện khác. Mỗi sự kiện trong Scrum là một cơ hội chính thức để kiểm tra và điều chỉnh các tạo phẩm của Scrum. Những sự kiện này được thiết kế đặc biệt để tạo ra sự minh bạch cần thiết. Không thực hiện được bất cứ sự kiện nào như chỉ định dẫn đến mất cơ hội để kiểm tra và điều chỉnh. Các sự kiện được sử dụng trong Scrum để tạo sự đều đặn và giảm thiểu nhu cầu họp không có trong Scrum.
+Sprint là nơi chứa tất cả các sự kiện khác. Mỗi sự kiện trong Scrum là một cơ hội chính thức để kiểm tra và điều chỉnh các tạo phẩm của Scrum. Những sự kiện này được thiết kế đặc biệt để tạo ra sự minh bạch cần thiết. Không thực hiện được bất cứ sự kiện nào như chỉ định dẫn đến mất cơ hội để kiểm tra và điều chỉnh. Các sự kiện được sử dụng trong Scrum để tạo sự đều đặn và giảm thiểu nhu cầu họp không được chỉ định trong Scrum.
 
 Tối ưu nhất, tất cả các sự kiện được tổ chức tại cùng một thời điểm và địa điểm để giảm bớt sự phức tạp.
 
@@ -153,22 +153,21 @@ Sprint là nhịp tim của Scrum, nơi các ý tưởng được biến thành 
 
 Chúng là các sự kiện có độ dài cố định từ một tháng hoặc ít hơn để tạo tính nhất quán. Một Sprint mới bắt đầu ngay sau khi kết thúc Sprint trước đó.
 
-Tất cả các công việc cần thiết để đạt được Mục Tiêu Sản Phẩm, bao gồm Lập kế hoạch Sprint, Scrum hàng ngày *(NV: Daily Scrums)*, Sơ kết Sprint *(NV: Sprint Review)* và Tổng kết Sprint *(NV: Sprint Retrospective)*, diễn ra trong Sprint.
+Tất cả các công việc cần thiết để đạt được Mục Tiêu Sản Phẩm, bao gồm Lập kế hoạch Sprint, Scrum Hàng ngày, Sơ kết Sprint và Tổng kết Sprint, diễn ra trong Sprint.
 
 Trong một Sprint:
 - Không thực hiện những thay đổi có thể gây nguy hiểm cho Mục tiêu Sprint;
 - Chất lượng không giảm;
-- Tồn Đơn Sản Phẩm *(NV: Product Backlog)* được tinh lọc khi cần thiết; và,
+- Tồn Đơn Sản Phẩm được tinh lọc khi cần thiết; và,
 - Phạm vi có thể được làm rõ và thương lượng lại với Chủ sản phẩm khi đã hiểu thêm.
 
-Sprint tạo khả năng dự đoán bằng cách đảm bảo việc kiểm tra và điều chỉnh tiến độ hướng đến Mục tiêu sản phẩm ít nhất mỗi tháng một lần. Khi lộ trình của Sprint quá dài, Mục tiêu Sprint có thể trở nên không hợp lệ, tính phức tạp có thể tăng lên và rủi ro có thể nhiều hơn. Các Sprint ngắn hơn có thể được sử dụng để tạo ra nhiều chu kỳ học tập hơn và hạn chế rủi ro về chi phí và nỗ lực trong một khung thời gian nhỏ hơn. Mỗi Sprint có thể coi là một dự án ngắn.
+Sprint tạo khả năng dự đoán bằng cách đảm bảo việc kiểm tra và điều chỉnh tiến độ hướng đến Mục tiêu sản phẩm ít nhất một lần mỗi tháng. Khi lộ trình của Sprint quá dài, Mục tiêu Sprint có thể trở nên không hợp lệ, tính phức tạp có thể tăng lên và rủi ro có thể nhiều hơn. Các Sprint ngắn hơn có thể được sử dụng để tạo ra nhiều chu kỳ học tập hơn và hạn chế rủi ro về chi phí và nỗ lực trong một khung thời gian nhỏ hơn. Mỗi Sprint có thể coi là một dự án ngắn.
 
 Có nhiều phương pháp khác nhau để dự báo tiến độ, chẳng hạn như cháy-giảm, cháy-tăng hoặc dòng lũy kế *(NV: burn-downs, burn-ups, or cumulative flows)*. Mặc dù đã được chứng minh là hữu ích, những cách này không thay thế tầm quan trọng của chủ nghĩa kinh nghiệm. Trong những môi trường phức tạp, chuyện gì sẽ xảy ra là điều không biết. Chỉ những gì đã xảy ra mới có thể được sử dụng cho các quyết định hướng về phía trước.
 
 Một Sprint có thể bị hủy bỏ nếu Mục tiêu Sprint trở nên lỗi thời. Chỉ Chủ Sản Phẩm mới có quyền hủy Sprint.
 
-
-### Lập Kế Hoạch Sprint *(NV: Sprint Planning)*
+### Lập Kế Hoạch Sprint
 
 Sự kiện Lập kế hoạch Sprint bắt đầu Sprint bằng cách đặt ra các công việc cần thực hiện cho Sprint. Kế hoạch có được này được tạo ra bởi việc cộng tác của toàn bộ Nhóm Scrum.
 
@@ -194,7 +193,7 @@ Mục tiêu Sprint, các mục trong Tồn Đơn Sản Phẩm được chọn ch
 
 Việc Lập kế hoạch Sprint có giới hạn thời gian tối đa là tám giờ cho một Sprint một-tháng. Với những Sprint ngắn hơn, sự kiện này thường ngắn hơn.
 
-### Scrum hàng ngày *(NV: Daily Scrums)*
+### Scrum Hàng ngày *(NV: Daily Scrums)*
 
 Mục đích của Scrum Hàng ngày là kiểm tra tiến độ hướng tới Mục tiêu Sprint và chỉnh sửa Tồn Đơn Sprint *(NV: Sprint Backlog)* khi cần thiết, điều chỉnh công việc đã lên kế hoạch sắp tới.
 
@@ -330,6 +329,9 @@ Ghi Chú Của Người dịch
 - Definition of Done: Định nghĩa Hoàn thành
 - Sprint Goal: Mục tiêu Sprint
 - Sprint Review: Sơ kết Sprint
+- Daily Scrum: Scrum Hàng ngày 
+- Sprint Retrospective: Tổng kết Sprint
+- Sprint Planning: Lập Kế Hoạch Sprint
 
 ### Giải thích
 
