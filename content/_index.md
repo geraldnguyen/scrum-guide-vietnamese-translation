@@ -277,15 +277,15 @@ Công việc không thể được coi là một phần của Gia tăng trừ kh
 
 #### Commitment: Definition of Done
 
-The Definition of Done is a formal description of the state of the Increment when it meets the quality measures required for the product.
+Định nghĩa Hoàn thành là một mô tả chính thức về trạng thái của Gia tăng khi nó đáp ứng các biện pháp chất lượng cần thiết cho sản phẩm.
 
-The moment a Product Backlog item meets the Definition of Done, an Increment is born.
+Thời điểm một mục Tồn đơn sản phẩm đáp ứng Định nghĩa Hoàn thành, một Gia tăng được sinh ra.
 
-The Definition of Done creates transparency by providing everyone a shared understanding of what work was completed as part of the Increment. If a Product Backlog item does not meet the Definition of Done, it cannot be released or even presented at the Sprint Review. Instead, it returns to the Product Backlog for future consideration.
+Định nghĩa Hoàn thành tạo ra sự minh bạch bằng việc cung cấp cho mọi người một hiểu biết chung về những công việc đã được hoàn thành như một phần của Gia tăng. Nếu một mục Tồn đơn sản phẩm không đáp ứng Định nghĩa Hoàn thành, nó không thể được triển khai hoặc thậm chí trình bày tại Sơ kết Sprint. Thay vào đó, nó quay trở lại Tồn đơn sản phẩm để xem xét trong tương lai.
 
-If the Definition of Done for an increment is part of the standards of the organization, all Scrum Teams must follow it as a minimum. If it is not an organizational standard, the Scrum Team must create a Definition of Done appropriate for the product.
+Nếu Định nghĩa Hoàn thành cho một Gia tăng là một phần trong các tiêu chuẩn của tổ chức, tất cả các Nhóm Scrum phải tuân theo nó như một điều tối thiểu. Nếu nó không phải là một tiêu chuẩn của tổ chức, Nhóm Scrum phải tạo ra một Định nghĩa Hoàn thành thích hợp cho sản phẩm.
 
-The Developers are required to conform to the Definition of Done. If there are multiple Scrum Teams working together on a product, they must mutually define and comply with the same Definition of Done.
+Các nhà phát triển bắt buộc phải làm theo Định nghĩa Hoàn thành. Nếu có nhiều Nhóm Scrum làm việc cùng nhâu trên một sản phẩm, họ phải cùng nhau xác định và tuân theo chung một Định nghĩa Hoàn thành.
 
 End Note
 --------
