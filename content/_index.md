@@ -63,16 +63,16 @@ Nếu bất kỳ khía cạnh của quá trình lệch ra ngoài giới hạn ch
 Việc thích ứng trở nên khó khăn hơn khi những người tham gia không được trao quyền hoặc không tự quản lý. Nhóm Scrum được yêu cầu ứng đổi ngay khi nhóm học được bất cứ điều gì mới thông qua việc kiểm tra.
 
 
-Các Giá Trị trong Scrum
+Các Giá Trị Trong Scrum
 ------------
 
 Việc sử dụng thành công Scrum phụ thuộc vào việc mọi người trở nên thành thạo hơn trong việc sống theo 5 giá trị:
 
-**_Cam kết, Tập trung, Cởi mở, Tôn trọng và Dũng cảm_**
+**_Cam kết, Tập trung, Cởi mở, Tôn trọng và Can đảm_**
 
-Nhóm Scrum cam kết đạt được các mục tiêu của mình và hỗ trợ lẫn nhau. Tập trung chính của họ là công việc của Sprint để đạt được tiến độ tốt nhất có thể đối với những mục tiêu này. Nhóm Scrum và các bên quan tâm và lợi ích *(NV: stakeholders)* cởi mở về công việc và những thách thức. Các thành viên Nhóm Scrum tôn trọng nhau là những người có năng lực, độc lập và được những người cùng làm việc tôn trọng như vậy. Các thành viên Nhóm Scrum có can đảm để làm điều đúng đắn, để giải quyết những vấn đề khó khăn.
+Nhóm Scrum cam kết đạt được các mục tiêu của mình và hỗ trợ lẫn nhau. Tập trung chính của họ là công việc trong Sprint để đạt được tiến độ tốt nhất có thể hướng đên những mục tiêu này. Nhóm Scrum và các bên quan tâm và lợi ích cởi mở về công việc và những thách thức. Các thành viên Nhóm Scrum tôn trọng nhau là những người có năng lực, độc lập và được những người cùng làm việc tôn trọng như vậy. Các thành viên Nhóm Scrum có can đảm để làm điều đúng đắn, để giải quyết những vấn đề khó khăn.
 
-Những giá trị này chỉ hướng cho Nhóm Scrum về công việc, hành động và cách cư xử của họ. Các quyết định được đưa ra, các bước đã thực hiện và cách sử dụng Scrum phải củng cố những giá trị này, không làm giảm hoặc làm suy yếu chúng. Các thành viên Nhóm Scrum tìm hiểu và khám phá các giá trị khi họ làm việc với các sự kiện và tạo phẩm của Scrum. Khi những giá trị này được hiện thân trong Nhóm Scrum và những người mà họ làm việc cùng, các trụ cột minh bạch, kiểm tra và thích ứng của chủ nghĩa kinh nghiệm trong Scrum sẽ hiện thực hóa và xây dựng niềm tin.
+Những giá trị này chỉ hướng cho Nhóm Scrum về công việc, hành động và cách cư xử của họ. Các quyết định được đưa ra, các bước đã thực hiện và cách sử dụng Scrum nên củng cố những giá trị này, không làm giảm hoặc làm suy yếu chúng. Các thành viên Nhóm Scrum tìm hiểu và khám phá các giá trị này khi họ làm việc với các sự kiện và tạo phẩm của Scrum. Khi những giá trị này được hiện thân trong Nhóm Scrum và những người mà họ làm việc cùng, các trụ cột minh bạch, kiểm tra và thích ứng của chủ nghĩa kinh nghiệm trong Scrum sẽ thành hiện thực và xây đắp sự tin tưởng.
 
 Nhóm Scrum
 ----------
@@ -310,9 +310,11 @@ Lịch sử hoàn chỉnh của Scrum được mô tả ở những nơi khác. 
 _© 2020 Ken Schwaber và Jeff Sutherland Ấn phẩm này được cung cấp giấy phép theo giấy phép Attribution Share-Alike của Creative Commons, có thể truy cập tại [https://creativecommons.org/licenses/by-sa/4.0/legalcode](https://creativecommons.org/licenses/by-sa/4.0/legalcode) và cũng được mô tả dưới dạng tóm tắt tại [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/). Bằng việc sử dụng Hướng dẫn Scrum này, bạn xác nhận và đồng ý rằng bạn đã đọc và đồng ý bị ràng buộc bởi các điều khoản của giấy phép Attribution Share-Alike của Creative Commons._
 
 
-### Ghi Chú Của Người dịch
+Ghi Chú Của Người dịch
+----------------------
 
-#### Thuật Ngữ
+### Thuật Ngữ
+- Scrum Team: Nhóm Scrum
 - Scrum Master: Trưởng Scrum
 - Product Owner: Chủ Sản phẩm
 - Product Backlog: Tồn đơn Sản phẩm
@@ -326,6 +328,6 @@ _© 2020 Ken Schwaber và Jeff Sutherland Ấn phẩm này được cung cấp g
 - Adaptation: Việc thích ứng, thay đổi cho phù hợp
 - Artifact: tạo phẩm
 
-#### Giải thích
+### Giải thích
 
 1. Trong điền kinh, Sprint có thể dịch thành Cuộc chạy nước rút, thường diễn ra trong các chặng đua ngắn hoặc khi gần đến đích. Sprint trong Scrum diễn ra bất kể chiều dài dự án, diễn ra liên tục, khi một Sprint kết thúc, một cái mới ngay lập tức bắt đầu. Do đó, cộng với hiểu biết và kinh nghiệm bản thân, người dịch cảm thấy bản chất của Sprint trong Scrum không _hoàn toàn_ giống ý nghĩa của nó trong điền kinh. Vì vậy người dịch quyết định giữ nguyên chữ Sprint, không dịch ra tiếng Việt
