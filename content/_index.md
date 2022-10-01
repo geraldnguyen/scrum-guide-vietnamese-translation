@@ -213,7 +213,7 @@ Trong sự kiện này, Nhóm Scrum và các bên quan tâm và lợi ích xem x
 
 Sơ kết Sprint là sự kiện thứ hai về cuối *(NV: second to last event)* của Sprint và có thời gian tối đa là bốn giờ cho Sprint một-tháng. Đối với Sprint ngắn hơn, sự kiện thường ngắn hơn.
 
-### Tổng kết Sprint *(NV: Sprint Retrospective)*
+### Tổng kết Sprint
 
 Mục đích của Tổng kết Sprint là dự trù các cách thức để tăng chất lượng và hiệu quả.
 
