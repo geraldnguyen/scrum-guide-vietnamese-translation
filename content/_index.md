@@ -266,23 +266,23 @@ Mục tiêu Sprint được tạo ra trong sự kiện Lập kế hoạch Sprint
 
 ### Gia Tăng
 
-Một Gia Tăng là một bước đệm cụ thể hướng tới Mục tiêu Sản phẩm. Mỗi Gia Tăng là bổ sung cho tất cả các Gia tăng trước đó và được xác minh kỹ lưỡng, đảm bảo rằng tất cả các Gia tăng hoạt động cùng nhau. Để cung cấp giá trị, Gia tăng phải có thể sử dụng được.
+Một Gia Tăng là một bước đệm cụ thể hướng tới Mục tiêu Sản phẩm. Mỗi Gia Tăng bổ sung cho tất cả các Gia tăng trước đó và được xác minh kỹ lưỡng, đảm bảo rằng tất cả các Gia tăng hoạt động cùng nhau. Để cung cấp giá trị, Gia tăng phải có thể sử dụng được.
 
 Nhiều Gia tăng có thể được tạo ra trong một Sprint. Tổng các Gia tăng được trình bày tại Sơ kết Sprint, qua đó hỗ trợ chủ nghĩa kinh nghiệm. Tuy nhiên, một Gia tăng có thể được chuyển đến các bên liên quan và lợi ích trước khi Sprint kết thúc. Sơ kết Sprint không bao giờ nên được coi là một cánh cổng để giải phóng giá trị.
 
 Công việc không thể được coi là một phần của Gia tăng trừ khi nó đáp ứng Định nghĩa Hoàn thành.
 
-#### Cam kết: Định Nghĩa Hoàn Thành
+#### Ràng buộc: Định Nghĩa Hoàn Thành
 
 Định nghĩa Hoàn thành là một mô tả chính thức về trạng thái của Gia tăng khi nó đáp ứng các biện pháp chất lượng cần thiết cho sản phẩm.
 
 Thời điểm một mục Tồn đơn Sản phẩm đáp ứng Định nghĩa Hoàn thành, một Gia tăng được sinh ra.
 
-Định nghĩa Hoàn thành tạo ra sự minh bạch bằng việc cung cấp cho mọi người một hiểu biết chung về những công việc đã được hoàn thành như một phần của Gia tăng. Nếu một mục Tồn đơn Sản phẩm không đáp ứng Định nghĩa Hoàn thành, nó không thể được triển khai hoặc thậm chí trình bày tại Sơ kết Sprint. Thay vào đó, nó quay trở lại Tồn đơn Sản phẩm để xem xét trong tương lai.
+Định nghĩa Hoàn thành tạo ra sự minh bạch bằng việc cung cấp cho mọi người một hiểu biết chung về công việc đã được hoàn thành như một phần của Gia tăng. Nếu một mục Tồn đơn Sản phẩm không đáp ứng Định nghĩa Hoàn thành, nó không thể được triển khai hoặc thậm chí trình bày tại Sơ kết Sprint. Thay vào đó, nó quay trở lại Tồn đơn Sản phẩm để xem xét trong tương lai.
 
 Nếu Định nghĩa Hoàn thành cho một Gia tăng là một phần trong các tiêu chuẩn của tổ chức, tất cả các Nhóm Scrum phải tuân theo nó như một điều tối thiểu. Nếu nó không phải là một tiêu chuẩn của tổ chức, Nhóm Scrum phải tạo ra một Định nghĩa Hoàn thành thích hợp cho sản phẩm.
 
-Các nhà phát triển bắt buộc phải làm theo Định nghĩa Hoàn thành. Nếu có nhiều Nhóm Scrum làm việc cùng nhâu trên một sản phẩm, họ phải cùng nhau xác định và tuân theo chung một Định nghĩa Hoàn thành.
+Các nhà phát triển phải tuân theo Định nghĩa Hoàn thành. Nếu có nhiều Nhóm Scrum làm việc cùng nhau trên một sản phẩm, họ phải cùng nhau xác định và tuân theo chung một Định nghĩa Hoàn thành.
 
  Lời cuối
 --------
