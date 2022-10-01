@@ -205,11 +205,11 @@ Scrums Hàng ngày cải thiện sự liên lạc, xác định các trở ngạ
 
 Scrum Hàng ngày không phải là lần duy nhất các Nhà phát triển được phép điều chỉnh kế hoạch của họ. Họ thường gặp nhau trong ngày để thảo luận chi tiết hơn về việc điều chỉnh hoặc lập lại kế hoạch cho phần còn lại của công việc Sprint.
 
-### Sơ kết Sprint *(NV: Sprint Review)*
+### Sơ kết Sprint
 
 Mục đích của Sơ kết Sprint là kiểm tra kết quả của Sprint và xác định các điều chỉnh trong tương lai. Nhóm Scrum trình bày kết quả công việc của họ trước các bên quan tâm và lợi ích chủ chốt và tiến trình hướng tới Mục tiêu Sản phẩm được thảo luận.
 
-Trong sự kiện này, Nhóm Scrum và các bên quan tâm và lợi ích xem xét những gì đã đạt được trong Sprint và những gì đã thay đổi trong môi trường của họ. Dựa trên thông tin này, những người tham dự cộng tác về việc cần làm tiếp theo. Tồn đơn Sản phẩm cũng có thể được điều chỉnh để đón các cơ hội mới. Sơ kết Sprint là một buổi làm việc và Nhóm Scrum nên tránh giới hạn nó thành một phiên thuyết trình.
+Trong sự kiện này, Nhóm Scrum và các bên quan tâm và lợi ích xem xét những gì đã đạt được trong Sprint và những gì đã thay đổi trong môi trường của họ. Dựa trên thông tin này, những người tham dự cộng tác về việc cần làm tiếp theo. Tồn đơn Sản phẩm cũng có thể được điều chỉnh để đón các cơ hội mới. Sơ kết Sprint là một phiên làm việc và Nhóm Scrum nên tránh giới hạn nó thành một cuộc thuyết trình.
 
 Sơ kết Sprint là sự kiện thứ hai về cuối *(NV: second to last event)* của Sprint và có thời gian tối đa là bốn giờ cho Sprint một-tháng. Đối với Sprint ngắn hơn, sự kiện thường ngắn hơn.
 
