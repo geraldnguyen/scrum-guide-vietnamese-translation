@@ -81,7 +81,7 @@ Nhóm Scrum
 
 Các Nhóm Scrum có tính chức năng chéo, nghĩa là các thành viên có tất cả các kỹ năng cần thiết để tạo ra giá trị mỗi Sprint. Họ cũng tự quản lý, có nghĩa là họ quyết định nội bộ ai làm gì, khi nào và như thế nào.
 
-Nhóm Scrum đủ nhỏ để duy trì sự nhanh nhẹn và đủ lớn để hoàn thành công việc có ý nghĩa trong Sprint, tiêu biểu là 10 người hoặc ít hơn. Nhìn chung, chúng tôi nhận thấy rằng các nhóm nhỏ hơn giao tiếp tốt hơn và làm việc năng suất hơn. Nếu các Nhóm Scrum trở nên quá lớn, họ nên cân nhắc tổ chức lại thành nhiều Nhóm Scrum gắn kết, mỗi nhóm tập trung vào cùng một sản phẩm. Do đó, họ nên chia sẻ cùng một Mục tiêu Sản phẩm, Tồn đơn sản phẩm và Chủ sản phẩm.
+Nhóm Scrum đủ nhỏ để duy trì sự nhanh nhẹn và đủ lớn để hoàn thành công việc có ý nghĩa trong Sprint, tiêu biểu là 10 người hoặc ít hơn. Nhìn chung, chúng tôi nhận thấy rằng các nhóm nhỏ hơn giao tiếp tốt hơn và làm việc năng suất hơn. Nếu các Nhóm Scrum trở nên quá lớn, họ nên cân nhắc tổ chức lại thành nhiều Nhóm Scrum gắn kết, mỗi nhóm tập trung vào cùng một sản phẩm. Do đó, họ nên chia sẻ cùng một Mục tiêu Sản phẩm, Tồn đơn Sản phẩm và Chủ sản phẩm.
 
 Nhóm Scrum chịu trách nhiệm về tất cả các hoạt động liên quan đến sản phẩm từ sự hợp tác với các bên liên quan, kiểm tra, bảo trì, vận hành, thử nghiệm, nghiên cứu và phát triển và bất kỳ hoạt động nào khác có thể được yêu cầu. Họ được cấu trúc và trao quyền bởi tổ chức để quản lý công việc của chính họ. Làm việc trong các Sprint với một nhịp độ bền vững cải thiện sự tập trung và tính ổn định của Nhóm Scrum.
 
@@ -217,7 +217,7 @@ Sơ kết Sprint là sự kiện thứ hai về cuối *(NV: second to last even
 
 Mục đích của Tổng kết Sprint là dự trù các cách thức để tăng chất lượng và hiệu quả.
 
-Nhóm Scrum xem xét kỹ cách Sprint cuối cùng diễn ra liên quan đến các cá nhân, tương tác, quy trình, công cụ và Định nghĩa về việc hoàn thành của nhóm. Các yếu tố được kiểm tra thường khác biệt theo lĩnh vực công việc. Các giả định khiến chúng lạc lối được xác định và nguồn gốc của các giả định đó được khám phá. Nhóm Scrum thảo luận về những gì diễn ra tốt trong Sprint, những vấn đề mà nhóm gặp phải và cách những vấn đề đó được giải quyết (hoặc không).
+Nhóm Scrum xem xét cách Sprint cuối cùng diễn ra liên quan đến các cá nhân, tương tác, quy trình, công cụ và Định nghĩa Hoàn thành của nhóm. Các yếu tố được kiểm tra thường khác biệt theo lĩnh vực công việc. Các giả định khiến chúng lạc lối được xác định và nguồn gốc của các giả định đó được khám phá. Nhóm Scrum thảo luận về những gì diễn ra tốt trong Sprint, những vấn đề mà nhóm gặp phải và cách những vấn đề đó được giải quyết (hoặc không).
 
 Nhóm Scrum xác định những thay đổi hữu ích nhất để cải thiện hiệu quả của nhóm. Những cải tiến có tác động nhất được xem xét sớm nhất có thể. Chúng thậm chí có thể được thêm vào Tồn đơn Sprint cho Sprint tiếp theo.
 
@@ -226,27 +226,27 @@ Tổng kết Sprint kết thúc Sprint. Nó có giới hạn thời gian tối �
 Tạo phẩm Scrum
 ---------------
 
-Các tạo phẩm của Scrum tượng trưng cho công việc hoặc giá trị. Chúng được thiết kế để tăng tối đa sự minh bạch của thông tin chính yếu. Vì vậy, mỗi người kiểm tra chúng đều có cùng cơ sở để thích ứng.
+Các tạo phẩm của Scrum tượng trưng cho công việc hoặc giá trị. Chúng được thiết kế để tăng tối đa sự minh bạch của các thông tin chính yếu. Vì vậy, mỗi người kiểm tra chúng đều có cùng cơ sở để thích ứng.
 
-Mỗi tạo phẩm có một cam kết để đảm bảo nó cung cấp thông tin tăng thêm tính minh bạch và sự tập trung nhờ đó có thể đo đươc tiến độ:
+Mỗi tạo phẩm có một ràng buộc để đảm bảo nó cung cấp thông tin tăng thêm tính minh bạch và sự tập trung nhờ đó có thể đo đươc tiến độ:
 
-- Đối với Tồn đơn sản phẩm, đó là Mục tiêu của Sản phẩm.
+- Đối với Tồn đơn Sản phẩm, đó là Mục tiêu của Sản phẩm.
 - Đối với Tồn đơn Sprint, đó là Mục tiêu Sprint.
 - Đối với Gia tăng, đó là Định nghĩa Hoàn thành.
 
-Những cam kết này hiện hữu để củng cố chủ nghĩa kinh nghiệm và các giá trị Scrum cho Nhóm Scrum và các bên liên quan và lợi ích.
+Những ràng buộc này hiện hữu để củng cố chủ nghĩa kinh nghiệm và các giá trị Scrum cho Nhóm Scrum và các bên liên quan và lợi ích.
 
-### Tồn đơn sản phẩm
+### Tồn đơn Sản phẩm
 
-Tồn đơn sản phẩm là một danh sách thay đổi *(NV: emergent. Người dịch: ví dụ: đơn hàng mới xuất hiện, hoặc đơn hàng cũ "nổi" lên trên bảng xếp hạng)*, có thứ tự của những gì cần để hoàn thiện sản phẩm. Đây là nguồn duy nhất cho công việc phải làm bởi Nhóm Scrum.
+Tồn đơn Sản phẩm là một danh sách thay đổi *(NV: emergent. Người dịch: ví dụ: đơn hàng mới xuất hiện, hoặc đơn hàng cũ "nổi" lên trên bảng xếp hạng)*, có thứ tự của những gì cần để hoàn thiện sản phẩm. Đây là nguồn duy nhất cho công việc phải làm bởi Nhóm Scrum.
 
-Các hạng mục Tồn đơn sản phẩm có thể được Hoàn thành bởi Nhóm Scrum trong một Sprint được coi là sẵn sàng để lựa chọn trong sự kiện Lập kế hoạch Sprint. Họ thường đạt đến mức độ minh bạch này sau các hoạt động tinh lọc. Tinh lọc Tồn đơn sản phẩm là hành động chia nhỏ và định nghĩa rõ hơn các mục Tồn đơn sản phẩm thành những mục nhỏ hơn, chính xác hơn. Đây là một hoạt động thường xuyên để thêm chi tiết, chẳng hạn mô tả, thứ tự và kích cỡ. Các thuộc tính thường thay đổi theo lĩnh vực công việc.
+Các mục trong Tồn đơn Sản phẩm có thể được Hoàn thành bởi Nhóm Scrum trong một Sprint được coi là sẵn sàng để lựa chọn trong sự kiện Lập kế hoạch Sprint. Họ thường đạt đến mức độ minh bạch này sau các hoạt động tinh lọc. Tinh lọc Tồn đơn Sản phẩm là hành động chia nhỏ và định nghĩa rõ hơn các mục Tồn đơn Sản phẩm thành những mục nhỏ hơn, chính xác hơn. Đây là một hoạt động thường xuyên để thêm chi tiết, chẳng hạn mô tả, thứ tự và kích cỡ. Các thuộc tính thường thay đổi theo lĩnh vực công việc.
 
-Các nhà phát triển những người sẽ hoàn thành công việc chịu trách nhiệm về việc định cỡ. Chủ sản phẩm có thể tác động đến Nhà phát triển bằng cách giúp họ hiểu và chọn lựa giữa các đánh đổi.
+Các nhà phát triển, những người sẽ làm công việc, chịu trách nhiệm về việc định cỡ. Chủ sản phẩm có thể tác động đến Nhà phát triển bằng cách giúp họ hiểu và chọn lựa giữa các đánh đổi.
 
-#### Cam kết: Mục tiêu Sản phẩm
+#### Ràng buộc: Mục tiêu Sản phẩm
 
-Mục tiêu Sản phẩm miêu tả một trạng thái tương lai của sản phẩm có thể đóng vai trò là mục tiêu để Nhóm Scrum dựa vào để lập kế hoạch. Mục tiêu Sản phẩm thuộc về Tồn đơn sản phẩm. Phần còn lại của Tồn đơn sản phẩm xuất hiện để xác định “cái gì” sẽ hoàn thành Mục tiêu Sản phẩm.
+Mục tiêu Sản phẩm miêu tả một trạng thái tương lai của sản phẩm có thể đóng vai trò là mục tiêu Nhóm Scrum dựa vào để lập kế hoạch. Mục tiêu Sản phẩm thuộc về Tồn đơn Sản phẩm. Phần còn lại của Tồn đơn Sản phẩm xuất hiện để xác định “cái gì” sẽ hoàn thành Mục tiêu Sản phẩm.
 
 > _Một sản phẩm là một phương tiện cung cấp giá trị. Nó có một ranh giới rõ ràng, các bên liên quan và lợi ích được định danh, những người dùng hoặc khách hàng được xác định rõ. Một sản phẩm có thể là một dịch vụ, một sản phẩm hữu hình hoặc một cái gì đó trừu tượng hơn._
 
@@ -256,9 +256,9 @@ Mục tiêu Sản phẩm là mục tiêu dài hạn của Nhóm Scrum. Họ ph�
 
 Tồn đơn Sprint được cấu thành từ Mục tiêu Sprint (lý do), tập hợp các mục Tồn đơn Sản phẩm được chọn cho Sprint (cái gì), cũng như một kế hoạch có thể hành động để sinh ra Gia tăng (như thế nào).
 
-Tồn đơn Sprint là một kế hoạch do các Nhà phát triển và dành cho các Nhà phát triển. Đó là một bức tranh rõ nét, theo thời gian thực về công việc mà các Nhà phát triển dự định hoàn thành trong Sprint để đạt được Mục tiêu Sprint. Do đó, Tồn đơn Sprint được cập nhật trong suốt Sprint khi nhiều điều hơn được sáng tỏ. Nó phải có đủ chi tiết để họ có thể kiểm tra tiến trình của mình trong Scrum Hằng ngày.
+Tồn đơn Sprint là một kế hoạch do các Nhà phát triển và cho các Nhà phát triển. Đó là một bức tranh rõ nét, theo thời gian thực về công việc mà các Nhà phát triển dự định hoàn thành trong Sprint để đạt được Mục tiêu Sprint. Do đó, Tồn đơn Sprint được cập nhật trong suốt Sprint khi nhiều điều hơn được sáng tỏ. Nó phải có đủ chi tiết để họ có thể kiểm tra tiến trình của mình trong Scrum Hàng ngày.
 
-#### Cam Kết: Mục tiêu Sprint
+#### Ràng buộc: Mục tiêu Sprint
 
 Mục tiêu Sprint là mục đích duy nhất của Sprint. Mặc dù Mục tiêu Sprint là một cam kết của các Nhà phát triển, nó cung cấp sự linh hoạt về công việc chính xác cần thiết để đạt được nó. Mục tiêu Sprint cũng tạo ra sự gắn kết và tập trung, khuyến khích Nhóm Scrum làm việc cùng nhau thay vì dựa trên các sáng kiến ​​riêng biệt.
 
@@ -276,9 +276,9 @@ Công việc không thể được coi là một phần của Gia tăng trừ kh
 
 Định nghĩa Hoàn thành là một mô tả chính thức về trạng thái của Gia tăng khi nó đáp ứng các biện pháp chất lượng cần thiết cho sản phẩm.
 
-Thời điểm một mục Tồn đơn sản phẩm đáp ứng Định nghĩa Hoàn thành, một Gia tăng được sinh ra.
+Thời điểm một mục Tồn đơn Sản phẩm đáp ứng Định nghĩa Hoàn thành, một Gia tăng được sinh ra.
 
-Định nghĩa Hoàn thành tạo ra sự minh bạch bằng việc cung cấp cho mọi người một hiểu biết chung về những công việc đã được hoàn thành như một phần của Gia tăng. Nếu một mục Tồn đơn sản phẩm không đáp ứng Định nghĩa Hoàn thành, nó không thể được triển khai hoặc thậm chí trình bày tại Sơ kết Sprint. Thay vào đó, nó quay trở lại Tồn đơn sản phẩm để xem xét trong tương lai.
+Định nghĩa Hoàn thành tạo ra sự minh bạch bằng việc cung cấp cho mọi người một hiểu biết chung về những công việc đã được hoàn thành như một phần của Gia tăng. Nếu một mục Tồn đơn Sản phẩm không đáp ứng Định nghĩa Hoàn thành, nó không thể được triển khai hoặc thậm chí trình bày tại Sơ kết Sprint. Thay vào đó, nó quay trở lại Tồn đơn Sản phẩm để xem xét trong tương lai.
 
 Nếu Định nghĩa Hoàn thành cho một Gia tăng là một phần trong các tiêu chuẩn của tổ chức, tất cả các Nhóm Scrum phải tuân theo nó như một điều tối thiểu. Nếu nó không phải là một tiêu chuẩn của tổ chức, Nhóm Scrum phải tạo ra một Định nghĩa Hoàn thành thích hợp cho sản phẩm.
 
