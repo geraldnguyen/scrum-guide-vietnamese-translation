@@ -267,13 +267,13 @@ Mục tiêu Sprint là mục đích duy nhất của Sprint. Mặc dù Mục ti�
 
 Mục tiêu Sprint được tạo ra trong sự kiện Lập kế hoạch Sprint và sau đó được thêm vào Tồn đơn Sprint. Khi các Nhà phát triển làm việc trong Sprint, họ luôn giữ Mục tiêu Sprint trong đầu. Nếu công việc diễn ra khác với họ mong đợi, họ sẽ cộng tác với Chủ Sản phẩm để thương lượng về phạm vi của Tồn đơn Sprint trong Sprint mà không ảnh hưởng đến Mục tiêu Sprint.
 
-### Increment
+### Gia Tăng
 
-An Increment is a concrete stepping stone toward the Product Goal. Each Increment is additive to all prior Increments and thoroughly verified, ensuring that all Increments work together. In order to provide value, the Increment must be usable.
+Một Gia Tăng là một bước đệm cụ thể hướng tới Mục tiêu Sản phẩm. Mỗi Gia Tăng là bổ sung cho tất cả các Gia tăng trước đó và được xác minh kỹ lưỡng, đảm bảo rằng tất cả các Gia tăng hoạt động cùng nhau. Để cung cấp giá trị, Gia tăng phải có thể sử dụng được.
 
-Multiple Increments may be created within a Sprint. The sum of the Increments is presented at the Sprint Review thus supporting empiricism. However, an Increment may be delivered to stakeholders prior to the end of the Sprint. The Sprint Review should never be considered a gate to releasing value.
+Nhiều Gia tăng có thể được tạo ra trong một Sprint. Tổng các Gia tăng được trình bày tại Sơ kết Sprint, qua đó hỗ trợ chủ nghĩa kinh nghiệm. Tuy nhiên, một Gia tăng có thể được chuyển đến các bên liên quan và lợi ích trước khi Sprint kết thúc. Sơ kết Sprint không bao giờ nên được coi là một cánh cổng để giải phóng giá trị.
 
-Work cannot be considered part of an Increment unless it meets the Definition of Done.
+Công việc không thể được coi là một phần của Gia tăng trừ khi nó đáp ứng Định nghĩa Hoàn thành.
 
 #### Commitment: Definition of Done
 
