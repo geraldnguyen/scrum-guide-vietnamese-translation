@@ -284,23 +284,22 @@ Nếu Định nghĩa Hoàn thành cho một Gia tăng là một phần trong cá
 
 Các nhà phát triển phải tuân theo Định nghĩa Hoàn thành. Nếu có nhiều Nhóm Scrum làm việc cùng nhau trên một sản phẩm, họ phải cùng nhau xác định và tuân theo chung một Định nghĩa Hoàn thành.
 
- Lời cuối
+Lời cuối
 --------
 
-Scrum miễn phí và được cung cấp trong Hướng dẫn này. Khuôn khổ Scrum, như được phác họa ở đây, là bất biến. Dù rằng triển khai chỉ vài phần của Scrum là có thể, kết quả đạt được không phải là Scrum. Scrum tồn tại chỉ trong trạng thái nguyên và hoạt động tốt như một nơi chứa các kỹ thuật, phương pháp và thực hành khác.
-
+Scrum miễn phí và được cung cấp trong Hướng dẫn này. Khuôn khổ Scrum, như được phác họa ở đây, là bất biến. Dù triển khai chỉ vài phần của Scrum là có thể, kết quả đạt được không phải là Scrum. Scrum tồn tại chỉ trong trạng thái nguyên và hoạt động tốt như một nơi chứa các kỹ thuật, phương pháp và thực hành khác.
 
 ### Lời Ghi Nhận
 
 #### Các Cá Nhân
 
-Trong số hàng nghìn người đã đóng góp cho Scrum, chúng ta nên chọn ra những người có đóng góp quan trọng khi bắt đầu: Jeff Sutherland đã làm việc với Jeff McKenna và John Scumniotales, và Ken Schwaber đã làm việc với Mike Smith và Chris Martin, và tất cả họ đã làm việc cùng nhau. Nhiều người khác đã đóng góp trong những năm sau đó và nếu không có sự giúp đỡ của họ thì Scrum sẽ không được hoàn thiện như ngày nay.
+Trong số hàng nghìn người đã đóng góp cho Scrum, chúng tôi nên chọn ra những người có đóng góp quan trọng thời khởi điểm: Jeff Sutherland đã làm việc với Jeff McKenna và John Scumniotales, và Ken Schwaber đã làm việc với Mike Smith và Chris Martin, và tất cả họ đã làm việc cùng nhau. Nhiều người khác đã đóng góp trong những năm sau đó và nếu không có sự giúp đỡ của họ thì Scrum sẽ không được hoàn thiện như ngày nay.
 
 #### Lịch sử Hướng dẫn Scrum
 
-Ken Schwaber và Jeff Sutherland lần đầu tiên đồng trình bày về Scrum tại Hội nghị OOPSLA vào năm 1995. Về cơ bản, nó ghi lại những gì Ken và Jeff đã học được trong vài năm trước đó và công khai định nghĩa chính thức đầu tiên về Scrum.
+Ken Schwaber và Jeff Sutherland lần đầu tiên cùng trình bày về Scrum tại Hội nghị OOPSLA vào năm 1995. Về cơ bản, nó ghi lại những gì Ken và Jeff đã học được trong vài năm trước đó và công khai định nghĩa chính thức đầu tiên về Scrum.
 
-Hướng dẫn Scrum ghi lại quá trình Scrum phát triển, tiến hóa và duy trì trong hơn 30 năm của Jeff Sutherland và Ken Schwaber. Các nguồn khác cung cấp các mẫu, quy trình và thông tin chi tiết bổ sung cho khung Scrum. Những điều này có thể làm tăng năng suất, giá trị, sự sáng tạo và sự hài lòng với kết quả.
+Hướng dẫn Scrum ghi lại quá trình Scrum được phát triển, tiến hóa và duy trì trong hơn 30 năm bởi Jeff Sutherland và Ken Schwaber. Các nguồn khác cung cấp các mẫu, quy trình và thông tin chi tiết bổ sung cho khuôn khổ Scrum. Những điều này có thể làm tăng năng suất, giá trị, sự sáng tạo và sự hài lòng với kết quả.
 
 Lịch sử hoàn chỉnh của Scrum được mô tả ở những nơi khác. Để tôn vinh những nơi đầu tiên mà nó đã được thử nghiệm và chứng minh, chúng tôi ghi nhận Individual Inc., Newspaperage, Fidelity Investments và IDX (nay là GE Medical).
 
