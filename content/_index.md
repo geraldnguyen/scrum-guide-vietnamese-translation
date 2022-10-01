@@ -293,20 +293,18 @@ Các nhà phát triển bắt buộc phải làm theo Định nghĩa Hoàn thàn
 Scrum miễn phí và được cung cấp trong Hướng dẫn này. Khuôn khổ Scrum, như được phác họa ở đây, là bất biến. Dù rằng triển khai chỉ vài phần của Scrum là có thể, kết quả đạt được không phải là Scrum. Scrum tồn tại chỉ trong trạng thái nguyên và hoạt động tốt như một nơi chứa các kỹ thuật, phương pháp và thực hành khác.
 
 
-### Acknowledgements
+### Lời Ghi Nhận
 
-#### People
+#### Các Cá Nhân
 
-Of the thousands of people who have contributed to Scrum, we should single out those who were instrumental at the start: Jeff Sutherland worked with Jeff McKenna and John Scumniotales, and Ken Schwaber worked with Mike Smith and Chris Martin, and all of them worked together. Many others contributed in the ensuing years and without their help Scrum would not be refined as it is today.
+Trong số hàng nghìn người đã đóng góp cho Scrum, chúng ta nên chọn ra những người có đóng góp quan trọng khi bắt đầu: Jeff Sutherland đã làm việc với Jeff McKenna và John Scumniotales, và Ken Schwaber đã làm việc với Mike Smith và Chris Martin, và tất cả họ đã làm việc cùng nhau. Nhiều người khác đã đóng góp trong những năm sau đó và nếu không có sự giúp đỡ của họ thì Scrum sẽ không được hoàn thiện như ngày nay.
 
-#### Scrum Guide History
+#### Lịch sử Hướng dẫn Scrum
 
-Ken Schwaber and Jeff Sutherland first co-presented Scrum at the OOPSLA Conference in 1995. It essentially documented the learning that Ken and Jeff gained over the previous few years and made public the first formal definition of Scrum.
+Ken Schwaber và Jeff Sutherland lần đầu tiên đồng trình bày về Scrum tại Hội nghị OOPSLA vào năm 1995. Về cơ bản, nó ghi lại những gì Ken và Jeff đã học được trong vài năm trước đó và công khai định nghĩa chính thức đầu tiên về Scrum.
 
-The Scrum Guide documents Scrum as developed, evolved, and sustained for 30-plus years by Jeff Sutherland and Ken Schwaber. Other sources provide patterns, processes, and insights that complement the Scrum framework. These may increase productivity, value, creativity, and satisfaction with the results.
+Hướng dẫn Scrum ghi lại quá trình Scrum phát triển, tiến hóa và duy trì trong hơn 30 năm của Jeff Sutherland và Ken Schwaber. Các nguồn khác cung cấp các mẫu, quy trình và thông tin chi tiết bổ sung cho khung Scrum. Những điều này có thể làm tăng năng suất, giá trị, sự sáng tạo và sự hài lòng với kết quả.
 
-The complete history of Scrum is described elsewhere. To honor the first places where it was tried and proven, we recognize Individual Inc., Newspage, Fidelity Investments, and IDX (now GE Medical).
+Lịch sử hoàn chỉnh của Scrum được mô tả ở những nơi khác. Để tôn vinh những nơi đầu tiên mà nó đã được thử nghiệm và chứng minh, chúng tôi ghi nhận Individual Inc., Newspaperage, Fidelity Investments và IDX (nay là GE Medical).
 
-  
-
-_© 2020 Ken Schwaber and Jeff Sutherland This publication is offered for license under the Attribution Share-Alike license of Creative Commons, accessible at [https://creativecommons.org/licenses/by-sa/4.0/legalcode](https://creativecommons.org/licenses/by-sa/4.0/legalcode) and also described in summary form at [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/). By utilizing this Scrum Guide, you acknowledge and agree that you have read and agree to be bound by the terms of the Attribution Share-Alike license of Creative Commons._
+_© 2020 Ken Schwaber và Jeff Sutherland Ấn phẩm này được cung cấp giấy phép theo giấy phép Attribution Share-Alike của Creative Commons, có thể truy cập tại [https://creativecommons.org/licenses/by-sa/4.0/legalcode](https://creativecommons.org/licenses/by-sa/4.0/legalcode) và cũng được mô tả dưới dạng tóm tắt tại [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/). Bằng việc sử dụng Hướng dẫn Scrum này, bạn xác nhận và đồng ý rằng bạn đã đọc và đồng ý bị ràng buộc bởi các điều khoản của giấy phép Attribution Share-Alike của Creative Commons._
