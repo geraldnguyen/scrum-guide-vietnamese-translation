@@ -336,4 +336,4 @@ Ghi Chú Của Người dịch
 
 1. Trong điền kinh, Sprint có thể dịch thành Cuộc chạy nước rút, thường diễn ra trong các chặng đua ngắn hoặc khi gần đến đích. Sprint trong Scrum diễn ra bất kể chiều dài dự án, diễn ra liên tục, khi một Sprint kết thúc, một cái mới ngay lập tức bắt đầu. Do đó, cộng với hiểu biết và kinh nghiệm bản thân, người dịch cảm thấy bản chất của Sprint trong Scrum không _hoàn toàn_ giống ý nghĩa của nó trong điền kinh. Vì vậy người dịch quyết định giữ nguyên chữ Sprint, không dịch ra tiếng Việt
 
-2. Commitment thường có nghĩa là Cam kết, nhưng trong nhiều hoàn cảnh có thể hiểu là cống hiến, tận tâm.
+2. Commitment thường có nghĩa là Cam kết, nhưng trong nhiều hoàn cảnh có thể hiểu là cống hiến, tận tâm. Khi nói về Tạo phẩm, commitment lại có ý nghĩa là một sự ràng buộc, phải có để đáp ứng yêu cầu của khuôn khổ Scrum.
