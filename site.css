@@ -1,0 +1,71 @@
+body { font-size: 14px; line-height: 1.8em; background: #222; }
+
+h1, h1 a, h1 a:hover, h2, h2 a, h2 a:hover, h3, h3 a, h3 a:hover, h4, h4 a, h4 a:hover { font-family: 'Muli', sans-serif; color: #353535; text-decoration: none; }
+
+#TableOfContents ul { margin-left: 10px; }
+
+#TableOfContents ul a { color: #353535; }
+
+ul.nav { margin-top: 15px; }
+
+#banner { color: #E6E6E6; font-size: 1.3em; line-height: 1.7em; background: #21d4ce; padding: 60px 0; }
+
+#banner h1, #banner h2, #banner h3, #banner h4 { color: white; }
+
+#banner > .container > .row > div { height: auto; margin-bottom: 10px; }
+
+@media (min-width: 992px) { #banner > .container > .row > div { height: 270px; margin-bottom: 0; } }
+.panel-default .panel-heading { background: #353535; border-color: #353535; color: #E6E6E6; }
+
+#content > .row { display: table; }
+
+#content { background: white; min-height: 700px; }
+
+#content.homepage { min-height: inherit; }
+
+#content > .container { padding-bottom: 40px; }
+
+#content.guide > .container > .row > [class*="col-"] { float: none; display: table-cell; vertical-align: top; }
+
+#footer { height: 60px; background: #222; color: #E6E6E6; padding-top: 15px; padding-right: 15px; }
+
+.navbar-inverse .navbar-nav > li > a { color: #E6E6E6; }
+
+.btn-primary, .btn-primary:hover { background-color: #0f7772; border-color: #0f7772; }
+
+.callout { text-align: center; padding: 30px; background: #353535; min-height: 100%; -webkit-box-shadow: 4px 4px 12px -1px rgba(0, 0, 0, 0.45); -moz-box-shadow: 4px 4px 12px -1px rgba(0, 0, 0, 0.45); box-shadow: 4px 4px 12px -1px rgba(0, 0, 0, 0.45); border-radius: 5px; }
+
+.navbar-inverse { margin-bottom: 0; height: auto; border-radius: 0; }
+
+.logo-small { width: 100px; }
+
+.navbar-brand { height: auto; }
+
+/*
+.navbar-nav>li>a {
+	padding-top: 35px;
+	padding-bottom: 35px;
+}
+*/
+#TableOfContents ul { padding-left: 10px; }
+
+#sidebar { background: #21d4ce; padding-top: 10px; }
+
+#sidebar .affix { top: 10px; }
+
+#sidebar .affix-bottom { position: absolute; }
+
+#sidebar .panel-scrumguides { width: 213px; }
+
+@media (min-width: 1200px) { #sidebar .panel-scrumguides { width: 263px; } }
+.copyright { font-style: italic; }
+
+.menu-gray { background-color: #898989; }
+
+.header4 { font-size: 18px; }
+
+.dark-blue { color: #2a77b5; }
+
+.flex-row { align-items: center; display: flex; flex-direction: row; }
+
+.right { margin-left: auto; }
